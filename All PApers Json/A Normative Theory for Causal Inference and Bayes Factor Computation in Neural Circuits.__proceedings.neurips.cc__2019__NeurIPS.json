@@ -1,0 +1,22 @@
+{
+  "pdf": "A Normative Theory for Causal Inference and Bayes Factor Computation in Neural Circuits.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Normative Theory for Causal Inference and Bayes\nFactor Computation in Neural Circuits\nWen-Hao Zhang1,2, Si Wu3, Brent Doiron2, Tai Sing Lee1\nwenhao.zhang@pitt.edu; siwu@pku.edu.cn; bdoiron@pitt.edu; tai@cnbc.cmu.edu\n1Center for the Neural Basis of Cognition, Carnegie Mellon University.\n2Department of Mathematics, University of Pittsburgh.\n3School of Electronics Engineering & Computer Science, IDG/McGovern\nInstitute for Brain Research, Peking-Tsinghua Center for Life Sciences, Peking University.\nAbstract\nThis study provides a normative theory for how Bayesian causal inference can\nbe implemented in neural circuits. In both cognitive processes such as causal\nreasoning and perceptual inference such as cue integration, the nervous systems\nneed to choose different models representing the underlying causal structures\nwhen making inferences on external stimuli. In multisensory processing, for\nexample, the nervous system has to choose whether to integrate or segregate inputs\nfrom different se",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Justice": "Yes",
+    "Privacy": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Fairness": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "User influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Collective influence": "Yes",
+    "Beneficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

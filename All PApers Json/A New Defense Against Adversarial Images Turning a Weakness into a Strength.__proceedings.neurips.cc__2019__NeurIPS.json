@@ -1,0 +1,22 @@
+{
+  "pdf": "A New Defense Against Adversarial Images Turning a Weakness into a Strength.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A New Defense Against Adversarial Images:\nTurning a Weakness into a Strength\nTao Yu∗† Shengyuan Hu∗† Chuan Guo† Wei-Lun Chao‡ Kilian Q. Weinberger†\nAbstract\nNatural images are virtually surrounded by low-density misclassiﬁed regions that\ncan be efﬁciently discovered by gradient-guided search — enabling the generation\nof adversarial images. While many techniques for detecting these attacks have\nbeen proposed, they are easily bypassed when the adversary has full knowledge\nof the detection mechanism and adapts the attack strategy accordingly. In this\npaper, we adopt a novel perspective and regard the omnipresence of adversarial\nperturbations as a strength rather than a weakness. We postulate that if an image\nhas been tampered with, these adversarial directions either become harder to ﬁnd\nwith gradient methods or have substantially higher density than for natural images.\nWe develop a practical test for this signature characteristic to successfully detect\nadversarial attacks, achieving unpr",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Non-maleficence": "No",
+    "Interpretable (to users)": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Respect for Persons": "No",
+    "Privacy": "No",
+    "Respect for Law and public interest": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Beneficence": "No",
+    "Fairness": "No",
+    "Justice": "No"
+  }
+}

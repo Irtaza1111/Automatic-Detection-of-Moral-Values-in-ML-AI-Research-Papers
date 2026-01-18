@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bandit Approach to Sequential Experimental Design with False Discovery Control.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Bandit Approach to Multiple Testing with False\nDiscovery Control\nKevin Jamieson⇤,†, Lalit Jain⇤\n{jamieson,lalitj}@cs.washington.edu\n⇤Paul G. Allen School of Computer Science & Engineering,\nUniversity of Washington, Seattle, WA, and\n†Optimizely, San Francisco, CA\nAbstract\nWe propose an adaptive sampling approach for multiple testing which aims to\nmaximize statistical power while ensuring anytime false discovery control. We\nconsider n distributions whose means are partitioned by whether they are below or\nequal to a baseline (nulls), versus above the baseline (actual positives). In addition,\neach distribution can be sequentially and repeatedly sampled. Inspired by the\nmulti-armed bandit literature, we provide an algorithm that takes as few samples\nas possible to exceed a target true positive proportion (i.e. proportion of actual\npositives discovered) while giving anytime control of the false discovery proportion\n(nulls predicted as actual positives). Our sample complexity results match ",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Non-maleficence": "No",
+    "Not socially biased": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Transparent (to users)": "No",
+    "Respect for Persons": "No",
+    "Privacy": "No",
+    "Deferral to humans": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

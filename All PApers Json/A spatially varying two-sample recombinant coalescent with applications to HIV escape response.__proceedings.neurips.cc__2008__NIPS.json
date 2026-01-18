@@ -1,0 +1,22 @@
+{
+  "pdf": "A spatially varying two-sample recombinant coalescent with applications to HIV escape response.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A spatially varying two-sample recombinant\ncoalescent, with applications to HIV escape response\nAlexander Braunstein\nStatistics Department\nUniversity of Pennsylvania\nWharton School\nPhiladelphia, PA 19104\nbraunsf@wharton.upenn.edu\nZhi Wei\nComputer Science Department\nNew Jersey Institute of Technology\nNewark, NJ 07102\nzhiwei@njit.edu\nShane T. Jensen\nStatistics Department\nUniversity of Pennsylvania\nWharton School\nPhiladelphia, PA 19104\nstjensen@wharton.upenn.edu\nJon D. McAuliffe\nStatistics Department\nUniversity of Pennsylvania\nWharton School\nPhiladelphia, PA 19104\nmcjon@wharton.upenn.edu\nAbstract\nStatistical evolutionary models provide an important mechanism for describing\nand understanding the escape response of a viral population under a particular\ntherapy. We present a new hierarchical model that incorporates spatially varying\nmutation and recombination rates at the nucleotide level. It also maintains sep-\narate parameters for treatment and control groups, which allows us to estimate\nt",
+  "values": {
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Collective influence": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Non-maleficence": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Justice": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

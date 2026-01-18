@@ -1,0 +1,22 @@
+{
+  "pdf": "A Neural Compositional Paradigm for Image Captioning.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Neural Compositional Paradigm\nfor Image Captioning\nBo Dai1 Sanja Fidler2,3,4 Dahua Lin1\n1 CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong\n2 University of Toronto 3 Vector Institute 4 NVIDIA\nbdai@ie.cuhk.edu.hk fidler@cs.toronto.edu dhlin@ie.cuhk.edu.hk\nAbstract\nMainstream captioning models often follow a sequential structure to generate cap-\ntions, leading to issues such as introduction of irrelevant semantics, lack of diversity\nin the generated captions, and inadequate generalization performance. In this paper,\nwe present an alternative paradigm for image captioning, which factorizes the\ncaptioning procedure into two stages: (1) extracting an explicit semantic represen-\ntation from the given image; and (2) constructing the caption based on a recursive\ncompositional procedure in a bottom-up manner. Compared to conventional ones,\nour paradigm better preserves the semantic content through an explicit factorization\nof semantics and syntax. By using the compositional genera",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Justice": "Yes",
+    "Not socially biased": "Yes",
+    "Fairness": "Yes",
+    "Beneficence": "Yes",
+    "Respect for Persons": "Yes",
+    "User influence": "Yes",
+    "Privacy": "Yes",
+    "Non-maleficence": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Collective influence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

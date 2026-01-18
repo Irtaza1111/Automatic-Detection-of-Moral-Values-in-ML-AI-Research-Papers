@@ -1,0 +1,22 @@
+{
+  "pdf": "A Meta-Analysis of Overfitting in Machine Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Meta-Analysis of Overﬁtting in Machine Learning\nRebecca Roelofs ∗\nUC Berkeley\nroelofs@berkeley.edu\nSara Fridovich-Keil ∗\nUC Berkeley\nsfk@berkeley.edu\nJohn Miller\nUC Berkeley\nmiller_john@berkeley.edu\nV aishaal Shankar\nUC Berkeley\nvaishaal@berkeley.edu\nMoritz Hardt\nUC Berkeley\nhardt@berkeley.edu\nBenjamin Recht\nUC Berkeley\nbrecht@berkeley.edu\nLudwig Schmidt\nUC Berkeley\nludwig@berkeley.edu\nAbstract\nW e conduct the ﬁrst large meta-analysis of overﬁtting due to test set reuse in the\nmachine learning community . Our analysis is based on over one hundred machine\nlearning competitions hosted on the Kaggle platform over the course of several\nyears. In each competition, numerous practitioners repeatedly evaluated their\nprogress against a holdout set that forms the basis of a public ranking available\nthroughout the competition. Performance on a separate test set used only once\ndetermined the ﬁnal ranking. By systematically comparing the public ranking\nwith the ﬁnal ranking, we assess how much pa",
+  "values": {
+    "Critiqability": "No",
+    "Privacy": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Transparent (to users)": "No",
+    "Respect for Persons": "No",
+    "User influence": "No",
+    "Justice": "No",
+    "Collective influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No",
+    "Beneficence": "No",
+    "Fairness": "No",
+    "Non-maleficence": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No"
+  }
+}

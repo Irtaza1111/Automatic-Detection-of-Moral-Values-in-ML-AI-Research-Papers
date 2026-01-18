@@ -1,0 +1,22 @@
+{
+  "pdf": "3D Steerable CNNs Learning Rotationally Equivariant Features in Volumetric Data.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "3D Steerable CNNs: Learning Rotationally\nEquivariant Features in Volumetric Data\nMaurice Weiler*\nUniversity of Amsterdam\nm.weiler@uva.nl\nMario Geiger*\nEPFL\nmario.geiger@epfl.ch\nMax Welling\nUniversity of Amsterdam, CIFAR,\nQualcomm AI Research\nm.welling@uva.nl\nWouter Boomsma\nUniversity of Copenhagen\nwb@di.ku.dk\nTaco Cohen\nQualcomm AI Research\ntaco.cohen@gmail.com\nAbstract\nWe present a convolutional network that is equivariant to rigid body motions.\nThe model uses scalar-, vector-, and tensor ﬁelds over 3D Euclidean space to\nrepresent data, and equivariant convolutions to map between such representations.\nThese SE(3)-equivariant convolutions utilize kernels which are parameterized\nas a linear combination of a complete steerable kernel basis, which is derived\nanalytically in this paper. We prove that equivariant convolutions are the most\ngeneral equivariant linear maps between ﬁelds over R3. Our experimental results\nconﬁrm the effectiveness of 3D Steerable CNNs for the problem of amino aci",
+  "values": {
+    "User influence": "No",
+    "Explicability": "No",
+    "Collective influence": "No",
+    "Non-maleficence": "No",
+    "Fairness": "No",
+    "Privacy": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "Critiqability": "No",
+    "Interpretable (to users)": "No",
+    "Not socially biased": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

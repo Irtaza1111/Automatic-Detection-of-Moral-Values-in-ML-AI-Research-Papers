@@ -1,0 +1,22 @@
+{
+  "pdf": "A Practical Algorithm for Distributed Clustering and Outlier Detection.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Practical Algorithm for Distributed Clustering and\nOutlier Detection∗\nJiecao Chen\nIndiana University Bloomington\nBloomington, IN\njiecchen@indiana.edu\nErfan Sadeqi Azer\nIndiana University Bloomington\nBloomington, IN\nesadeqia@indiana.edu\nQin Zhang\nIndiana University Bloomington\nBloomington, IN\nqzhangcs@indiana.edu\nAbstract\nWe study the classic k-means/median clustering, which are fundamental problems\nin unsupervised learning, in the setting where data are partitioned across multiple\nsites, and where we are allowed to discard a small portion of the data by labeling\nthem as outliers. We propose a simple approach based on constructing small\nsummary for the original dataset. The proposed method is time and communication\nefﬁcient, has good approximation guarantees, and can identify the global outliers\neffectively. To the best of our knowledge, this is the ﬁrst practical algorithm with\ntheoretical guarantees for distributed clustering with outliers. Our experiments\non both real and synthetic",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "Critiqability": "No",
+    "Autonomy (power to decide)": "No",
+    "Transparent (to users)": "No",
+    "Respect for Persons": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No",
+    "Fairness": "No",
+    "Deferral to humans": "No"
+  }
+}

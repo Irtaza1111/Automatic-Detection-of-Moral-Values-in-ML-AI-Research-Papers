@@ -1,0 +1,22 @@
+{
+  "pdf": "A Debiased MDI Feature Importance Measure for Random Forests.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Debiased MDI Feature Importance Measure for\nRandom Forests\nXiao Li∗\nStatistics Department\nUC Berkeley\nsxli@berkeley.edu\nYu Wang\nStatistics Department\nUC Berkeley\nwang.yu@berkeley.edu\nSumanta Basu\nStatistics and Data Science Department\nComputational Biology Department\nCornell University\nsumbose@cornell.edu\nKarl Kumbier\nStatistics Department\nUC Berkeley\nkkumbier@berkeley.edu\nBin Yu\nEECS, Statistics Department\nUC Berkeley\nbinyu@berkeley.edu\nAbstract\nTree ensembles such as Random Forests have achieved impressive empirical suc-\ncess across a wide variety of applications. To understand how these models make\npredictions, people routinely turn to feature importance measures calculated from\ntree ensembles. It has long been known that Mean Decrease Impurity (MDI), one\nof the most widely used measures of feature importance, incorrectly assigns high\nimportance to noisy features, leading to systematic bias in feature selection. In\nthis paper, we address the feature selection bias of MDI from both",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "User influence": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Critiqability": "No",
+    "Deferral to humans": "No",
+    "Non-maleficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Transparent (to users)": "No",
+    "Justice": "No",
+    "Privacy": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

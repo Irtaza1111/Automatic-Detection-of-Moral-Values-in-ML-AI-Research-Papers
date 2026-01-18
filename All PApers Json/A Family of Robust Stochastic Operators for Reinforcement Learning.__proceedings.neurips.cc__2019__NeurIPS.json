@@ -1,0 +1,22 @@
+{
+  "pdf": "A Family of Robust Stochastic Operators for Reinforcement Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Family of Robust Stochastic Operators for\nReinforcement Learning\nYingdong Lu, Mark S. Squillante, Chai Wah Wu\nMathematical Sciences\nIBM Research\nYorktown Heights, NY 10598, USA\n{yingdong, mss, cwwu}@us.ibm.com\nAbstract\nWe consider a new family of stochastic operators for reinforcement learning that\nseeks to alleviate negative effects and become more robust to approximation or\nestimation errors. Theoretical results are established, showing that our family of\noperators preserve optimality and increase the action gap in a stochastic sense.\nEmpirical results illustrate the strong beneﬁts of our robust stochastic operators,\nsigniﬁcantly outperforming the classical Bellman and recently proposed operators.\n1 Introduction\nReinforcement learning has a rich history within the machine learning community to solve a wide\nvariety of decision making problems in environments with unknown and possibly unstructured\ndynamics. Through iterative application of a convergent operator, value-based reinforce",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Not socially biased": "Yes",
+    "Explicability": "Yes",
+    "Justice": "Yes",
+    "Privacy": "Yes",
+    "Respect for Persons": "Yes",
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes",
+    "Beneficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

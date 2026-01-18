@@ -1,0 +1,22 @@
+{
+  "pdf": "A General Projection Property for Distribution Families.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A\nGeneral Projection Property for Distribution Families\nY\nao-Liang Yu Yuxi Li Dale Schuurmans Csaba Szepesv ´ari\nDepartment of Computing Science\nUniversity of Alberta\nEdmonton, AB, T6G 2E8 Canada\n{yaoliang,yuxi,dale,szepesva}@cs.ualberta.ca\nAbstract\nSurjectivity of linear projections between distribution families with ﬁxed mean\nand covariance (regardless of dimension) is re-derived by a new proof. We further\nextend this property to distribution families that respect additional constraints,\nsuch as symmetry, unimodality and log-concavity. By combining our results with\nclassic univariate inequalities, we provide new worst-case analyses for natural\nrisk criteria arising in classiﬁcation, optimization, portfolio selection and Markov\ndecision processes.\n1 Introduction\nIn real applications, the model of the problem at hand inevitably embodies some form of uncertainty:\nthe parameters of the model are usually (roughly) estimated from data, which themselves can be\nuncertain due to various kinds",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Privacy": "Yes",
+    "Non-maleficence": "Yes",
+    "Justice": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "User influence": "Yes",
+    "Fairness": "Yes",
+    "Beneficence": "Yes",
+    "Explicability": "Yes",
+    "Collective influence": "Yes",
+    "Critiqability": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

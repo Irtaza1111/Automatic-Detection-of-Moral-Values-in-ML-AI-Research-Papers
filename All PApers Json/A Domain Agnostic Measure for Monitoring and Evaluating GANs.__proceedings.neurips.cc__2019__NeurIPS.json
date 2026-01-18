@@ -1,0 +1,22 @@
+{
+  "pdf": "A Domain Agnostic Measure for Monitoring and Evaluating GANs.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Domain Agnostic Measure for Monitoring and\nEvaluating GANs\nPaulina Grnarova ∗\nETH Zurich\nKﬁr Y . Levy\nT echnion-Israel Institute of T echnology\nAurelien Lucchi\nETH Zurich\nNathanaël Perraudin\nSwiss Data Science Center\nIan Goodfellow Thomas Hofmann\nETH Zurich\nAndreas Krause\nETH Zurich\nAbstract\nGenerative Adversarial Networks (GANs) have shown remarkable results in mod-\neling complex distributions, but their evaluation remains an unsettled issue. Evalua-\ntions are essential for: (i) relative assessment of different models and (ii) monitoring\nthe progress of a single model throughout training. The latter cannot be determined\nby simply inspecting the generator and discriminator loss curves as they behave\nnon-intuitively . W e leverage the notion of duality gap from game theory to propose\na measure that addresses both (i) and (ii) at a low computational cost. Exten-\nsive experiments show the effectiveness of this measure to rank different GAN\nmodels and capture the typical GAN failure scen",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Respect for Law and public interest": "No",
+    "Fairness": "No",
+    "Collective influence": "No",
+    "Respect for Persons": "No",
+    "Autonomy (power to decide)": "No",
+    "User influence": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Not socially biased": "No"
+  }
+}

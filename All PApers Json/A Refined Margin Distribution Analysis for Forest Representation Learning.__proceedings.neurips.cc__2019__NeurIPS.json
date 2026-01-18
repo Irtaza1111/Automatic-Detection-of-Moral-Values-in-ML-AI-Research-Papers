@@ -1,0 +1,22 @@
+{
+  "pdf": "A Refined Margin Distribution Analysis for Forest Representation Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Reﬁned Margin Distribution Analysis for Forest\nRepresentation Learning\nShen-Huan Lyu, Liang Yang, Zhi-Hua Zhou\nNational Key Laboratory for Novel Software Technology\nNanjing University, Nanjing, 210023, China\n{lvsh,yangl,zhouzh}@lamda.nju.edu.cn\nAbstract\nIn this paper, we formulate the forest representation learning approach named\ncasForest as an additive model, and show that the generalization error can be\nbounded by O(ln m/m), when the margin ratio related to the margin standard\ndeviation against the margin mean is sufﬁciently small. This inspires us to optimize\nthe ratio. To this end, we design a margin distribution reweighting approach for the\ndeep forest model to attain a small margin ratio. Experiments conﬁrm the relation\nbetween the margin distribution and generalization performance. We remark that\nthis study offers a novel understanding of casForest from the perspective of the\nmargin theory and further guides the layer-by-layer forest representation learning.\n1 Introduction\nIn",
+  "values": {
+    "Respect for Persons": "Yes",
+    "Transparent (to users)": "Yes",
+    "Not socially biased": "Yes",
+    "Privacy": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Justice": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Fairness": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Beneficence": "Yes",
+    "Non-maleficence": "Yes",
+    "User influence": "Yes",
+    "Deferral to humans": "Yes",
+    "Collective influence": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes"
+  }
+}

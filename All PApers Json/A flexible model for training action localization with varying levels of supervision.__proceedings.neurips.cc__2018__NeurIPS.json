@@ -1,0 +1,22 @@
+{
+  "pdf": "A flexible model for training action localization with varying levels of supervision.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A ﬂexible model for training action localization\nwith varying levels of supervision\nGuilhem Chéron∗12 Jean-Baptiste Alayrac∗1 Ivan Laptev1 Cordelia Schmid2\nAbstract\nSpatio-temporal action detection in videos is typically addressed in a fully-\nsupervised setup with manual annotation of training videos required at every frame.\nSince such annotation is extremely tedious and prohibits scalability, there is a clear\nneed to minimize the amount of manual supervision. In this work we propose a\nunifying framework that can handle and combine varying types of less-demanding\nweak supervision. Our model is based on discriminative clustering and integrates\ndifferent types of supervision as constraints on the optimization. We investigate\napplications of such a model to training setups with alternative supervisory signals\nranging from video-level class labels to the full per-frame annotation of action\nbounding boxes. Experiments on the challenging UCF101-24 and DALY datasets\ndemonstrate competitive pe",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Not socially biased": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "Autonomy (power to decide)": "No",
+    "Collective influence": "No",
+    "Beneficence": "No",
+    "Non-maleficence": "No",
+    "Respect for Law and public interest": "No",
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Justice": "No"
+  }
+}

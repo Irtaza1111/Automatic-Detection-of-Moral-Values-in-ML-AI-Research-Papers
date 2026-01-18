@@ -1,0 +1,22 @@
+{
+  "pdf": "A Convex Upper Bound on the Log-Partition Function for Binary Distributions.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A\nConvex Upper Bound on the Log-Partition Function\nfor Binary Graphical Models\nLaur\nent El Ghaoui\nDepartment of Electrical Engineering and Computer Science\nUniversity of California Berkeley\nBerkeley, CA 9470\nelghaoui@eecs.berkeley.edu\nAssane Gueye\nDepartment of Electrical Engineering and Computer Science\nUniversity of California Berkeley\nBerkeley, CA 9470\nagueye@eecs.berkeley.edu\nAbstract\nWe consider the problem of bounding from above the log-partition function corresponding to\nsecond-order Ising models for binary distributions. We introduce a new bound, the cardinality\nbound, which can be computed via convex optimization. The corresponding error on the log-\npartition function is bounded above by twice the distance, in model parameter space, to a class of\n“standard” Ising models, for which variable inter-dependence is described via a simple mean ﬁeld\nterm. In the context of maximum-likelihood, using the new bound instead of the exact log-partition\nfunction, while constraining the dista",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Critiqability": "Yes",
+    "Transparent (to users)": "Yes",
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "User influence": "Yes",
+    "Deferral to humans": "Yes",
+    "Beneficence": "Yes",
+    "Collective influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Privacy": "Yes",
+    "Respect for Persons": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Justice": "Yes",
+    "Respect for Law and public interest": "Yes"
+  }
+}

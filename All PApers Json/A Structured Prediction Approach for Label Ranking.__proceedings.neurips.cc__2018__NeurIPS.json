@@ -1,0 +1,22 @@
+{
+  "pdf": "A Structured Prediction Approach for Label Ranking.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Structured Prediction Approach for Label Ranking\nAnna Korba, Alexandre Garcia, Florence d’Alché-Buc\nLTCI, Télécom ParisTech\nUniversité Paris-Saclay\nParis, France\nfirstname.lastname@telecom-paristech.fr\nAbstract\nWe propose to solve a label ranking problem as a structured output regression task.\nIn this view, we adopt a least square surrogate loss approach that solves a supervised\nlearning problem in two steps: a regression step in a well-chosen feature space\nand a pre-image (or decoding) step. We use speciﬁc feature maps/embeddings for\nranking data, which convert any ranking/permutation into a vector representation.\nThese embeddings are all well-tailored for our approach, either by resulting in\nconsistent estimators, or by solving trivially the pre-image problem which is often\nthe bottleneck in structured prediction. Their extension to the case of incomplete or\npartial rankings is also discussed. Finally, we provide empirical results on synthetic\nand real-world datasets showing the re",
+  "values": {
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Transparent (to users)": "No",
+    "Justice": "No",
+    "Not socially biased": "No",
+    "Beneficence": "No",
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "Explicability": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Collective influence": "No",
+    "Non-maleficence": "No",
+    "Fairness": "No",
+    "Critiqability": "No",
+    "Deferral to humans": "No"
+  }
+}

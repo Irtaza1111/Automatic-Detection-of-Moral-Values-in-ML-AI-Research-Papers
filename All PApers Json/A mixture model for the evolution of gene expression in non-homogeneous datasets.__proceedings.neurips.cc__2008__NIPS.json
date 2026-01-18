@@ -1,0 +1,22 @@
+{
+  "pdf": "A mixture model for the evolution of gene expression in non-homogeneous datasets.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A mixture model for the evolution of gene expression\nin non-homogeneous datasets\nGerald Quon 1, Yee Whye Teh2, Esther Chan3, Timothy Hughes3, Michael Brudno1,3,\nQuaid Morris3\n1Department of Computer Science, and3Banting and Best Department of Medical Research,\nUniversity of Toronto, Canada,\n2Gatsby Computational Neuroscience Unit, University College London, United Kingdom\n{gerald.quon,quaid.morris}@utoronto.ca\nAbstract\nWe address the challenge of assessing conservation of gene expression in com-\nplex, non-homogeneous datasets. Recent studies have demonstrated the success\nof probabilistic models in studying the evolution of gene expression in simple\neukaryotic organisms such as yeast, for which measurements are typically scalar\nand independent. Models capable of studying expression evolution in much more\ncomplex organisms such as vertebrates are particularly important given the medi-\ncal and scientiﬁc interest in species such as human and mouse. We present Brow-\nnian Factor Phylogenetic",
+  "values": {
+    "Critiqability": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Explicability": "Yes",
+    "Deferral to humans": "Yes",
+    "Non-maleficence": "Yes",
+    "User influence": "Yes",
+    "Privacy": "Yes",
+    "Collective influence": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Respect for Persons": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Not socially biased": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Justice": "Yes"
+  }
+}

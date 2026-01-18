@@ -1,0 +1,22 @@
+{
+  "pdf": "A Little Is Enough Circumventing Defenses For Distributed Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Little Is Enough:\nCircumventing Defenses For Distributed Learning\nMoran Baruch 1\nmoran.baruch@biu.ac.il\nGilad Baruch 1\ngilad.baruch@biu.ac.il\nYoav Goldberg1 2\nyogo@cs.biu.ac.il\n1 Dept. of Computer Science, Bar Ilan University, Israel\n2 The Allen Institute for Artiﬁcial Intelligence\nAbstract\nDistributed learning is central for large-scale training of deep-learning models.\nHowever, it is exposed to a security threat in which Byzantine participants can\ninterrupt or control the learning process. Previous attack models assume that the\nrogue participants (a) are omniscient (know the data of all other participants),\nand (b) introduce large changes to the parameters. Accordingly, most defense\nmechanisms make a similar assumption and attempt to use statistically robust\nmethods to identify and discard values whose reported gradients are far from the\npopulation mean. We observe that if the empirical variance between the gradients\nof workers is high enough, an attacker could take advantage of th",
+  "values": {
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Transparent (to users)": "No",
+    "Critiqability": "No",
+    "Beneficence": "No",
+    "Collective influence": "No",
+    "User influence": "No",
+    "Respect for Persons": "No",
+    "Not socially biased": "No",
+    "Fairness": "No",
+    "Autonomy (power to decide)": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No",
+    "Deferral to humans": "No"
+  }
+}

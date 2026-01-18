@@ -1,0 +1,22 @@
+{
+  "pdf": "A Tensorized Transformer for Language Modeling.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Tensorized Transformer for Language Modeling\nXindian Ma1, Peng Zhang1∗, Shuai Zhang1,\nNan Duan2, Yuexian Hou1, Dawei Song3, Ming Zhou2\n1College of Intelligence and Computing, Tianjin University, Tianjin, China\n2Microsoft Research Asia, Beijing, China\n3School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China\n{xindianma, pzhang, szhang96, yxhou}@tju.edu.cn\n{nanduan, mingzhou}@microsoft.com\n{dwsong}@bit.edu.cn\nAbstract\nLatest development of neural models has connected the encoder and decoder\nthrough a self-attention mechanism. In particular, Transformer, which is solely\nbased on self-attention, has led to breakthroughs in Natural Language Processing\n(NLP) tasks. However, the multi-head attention mechanism, as a key component\nof Transformer, limits the effective deployment of the model to a resource-limited\nsetting. In this paper, based on the ideas of tensor decomposition and parameters\nsharing, we propose a novel self-attention model (namely Multi-line",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Transparent (to users)": "No",
+    "Critiqability": "No",
+    "Not socially biased": "No",
+    "Explicability": "No",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "User influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Persons": "No",
+    "Collective influence": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Non-maleficence": "No",
+    "Fairness": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

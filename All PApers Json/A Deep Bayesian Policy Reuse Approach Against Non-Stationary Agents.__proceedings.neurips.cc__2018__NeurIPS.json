@@ -1,0 +1,22 @@
+{
+  "pdf": "A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Deep Bayesian Policy Reuse Approach Against\nNon-Stationary Agents\nYan Zheng1, Zhaopeng Meng 1, Jianye Hao 1∗, Zongzhang Zhang 2,\nTianpei Yang1, Changjie Fan 3\n1College of Intelligence and Computing, Tianjin University, Tianjin, China\n2School of Computer Science and Technology, Soochow University, Suzhou, China\n3NetEase Fuxi Lab, NetEase, Inc., Hangzhou, China\n{yanzheng, mengzp, jianye.hao}@tju.edu.cn, zzzhang@suda.edu.cn\ntpyang@tju.edu.cn, fanchangjie@netease.com\nAbstract\nIn multiagent domains, coping with non-stationary agents that change behaviors\nfrom time to time is a challenging problem, where an agent is usually required\nto be able to quickly detect the other agent’s policy during online interaction,\nand then adapt its own policy accordingly. This paper studies efﬁcient policy\ndetecting and reusing techniques when playing against non-stationary agents in\nMarkov games. We propose a new deep BPR+ algorithm by extending the recent\nBPR+ algorithm with a neural network as the value-",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Deferral to humans": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "User influence": "Yes",
+    "Justice": "Yes",
+    "Collective influence": "Yes",
+    "Fairness": "Yes",
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "Critiqability": "Yes",
+    "Respect for Persons": "Yes",
+    "Beneficence": "Yes"
+  }
+}

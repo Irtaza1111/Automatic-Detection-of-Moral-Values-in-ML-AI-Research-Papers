@@ -1,0 +1,22 @@
+{
+  "pdf": "A Graph Theoretic Additive Approximation of Optimal Transport.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Graph Theoretic Additive Approximation of\nOptimal Transport\nNathaniel Lahn\nDepartment of Computer Science\nVirginia Tech\nBlacksburg, V A 24061\nlahnn@vt.edu\nDeepika Mulchandani\nVirginia Tech\nBlacksburg, V A 24061\ndeepikak@vt.edu\nSharath Raghvendra\nVirginia Tech\nBlacksburg, V A 24061\nsharathr@vt.edu\nAbstract\nTransportation cost is an attractive similarity measure between probability distribu-\ntions due to its many useful theoretical properties. However, solving optimal trans-\nport exactly can be prohibitively expensive. Therefore, there has been signiﬁcant\neffort towards the design of scalable approximation algorithms. Previous combina-\ntorial results [Sharathkumar, Agarwal STOC ’12, Agarwal, Sharathkumar STOC\n’14] have focused primarily on the design of near-linear time multiplicative approx-\nimation algorithms. There has also been an effort to design approximate solutions\nwith additive errors [Cuturi NIPS ’13, Altschuleret al. NIPS ’17, Dvurechenskyet\nal. ICML ’18, Quanrud, SOSA ’19] ",
+  "values": {
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No",
+    "Non-maleficence": "No",
+    "Interpretable (to users)": "No",
+    "Beneficence": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Transparent (to users)": "No",
+    "Collective influence": "No",
+    "Respect for Persons": "No",
+    "User influence": "No",
+    "Justice": "No",
+    "Fairness": "No",
+    "Privacy": "No"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A Gaussian Tree Approximation for Integer Least-Squares.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Gaussian Tree Approximation for Integer\nLeast-Squares\nJacob Goldberger\nSchool of Engineering\nBar-Ilan University\ngoldbej@eng.biu.ac.il\nAmir Leshem\nSchool of Engineering\nBar-Ilan University\nleshema@eng.biu.ac.il\nAbstract\nThis paper proposes a new algorithm for the linear least squares problem where\nthe unknown variables are constrained to be in a ﬁnite set. The factor graph that\ncorresponds to this problem is very loopy; in fact, it is a complete graph. Hence,\napplying the Belief Propagation (BP) algorithm yields very poor results. The al-\ngorithm described here is based on an optimal tree approximation of the Gaussian\ndensity of the unconstrained linear system. It is shown that even though the ap-\nproximation is not directly applied to the exact discrete distribution, applying the\nBP algorithm to the modiﬁed factor graph outperforms current methods in terms\nof both performance and complexity. The improved performance of the proposed\nalgorithm is demonstrated on the problem of MIMO de",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Respect for Law and public interest": "No",
+    "Interpretable (to users)": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Not socially biased": "No",
+    "Autonomy (power to decide)": "No",
+    "Deferral to humans": "No",
+    "Transparent (to users)": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Privacy": "No",
+    "Justice": "No",
+    "Beneficence": "No"
+  }
+}

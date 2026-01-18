@@ -1,0 +1,22 @@
+{
+  "pdf": "A First-Order Algorithmic Framework for Distributionally Robust Logistic Regression.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A First-Order Algorithmic Framework for Wasserstein\nDistributionally Robust Logistic Regression\nJiajin Li, Sen Huang, Anthony Man-Cho So\nDepartment of Systems Engineering & Engineering Management\nThe Chinese University of Hong Kong\nShatin, N. T., Hong Kong\n{jjli,hsen,manchoso}@se.cuhk.edu.hk\nAbstract\nWasserstein distance-based distributionally robust optimization (DRO) has received\nmuch attention lately due to its ability to provide a robustness interpretation of\nvarious learning models. Moreover, many of the DRO problems that arise in the\nlearning context admits exact convex reformulations and hence can be tackled\nby off-the-shelf solvers. Nevertheless, the use of such solvers severely limits the\napplicability of DRO in large-scale learning problems, as they often rely on general\npurpose interior-point algorithms. On the other hand, there are very few works\nthat attempt to develop fast iterative methods to solve these DRO problems, which\ntypically possess complicated structures. In th",
+  "values": {
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Critiqability": "No",
+    "Non-maleficence": "No",
+    "Collective influence": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "User influence": "No",
+    "Privacy": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Justice": "No"
+  }
+}

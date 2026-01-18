@@ -1,0 +1,22 @@
+{
+  "pdf": "A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Nonconvex Approach for Exact and Efﬁcient\nMultichannel Sparse Blind Deconvolution\nQing Qu\nNew York University\nqq213@nyu.edu\nXiao Li\nChinese University of Hong Kong\nxli@ee.cuhk.edu.hk\nZhihui Zhu\u0006\nJohns Hopkins University\nzzhu29@jhu.edu\nAbstract\nWe study the multi-channel sparse blind deconvolution (MCS-BD) problem,\nwhose task is to simultaneously recover a kernel a and multiple sparse inputs\ntxiup\ni\u00101 from their circulant convolution yi \u0010 a f xi (i \u0010 1; \u0004 \u0004 \u0004 ; p). We formu-\nlate the task as a nonconvex optimization problem over the sphere. Under mild\nstatistical assumptions of the data, we prove that the vanilla Riemannian gradient\ndescent (RGD) method, with random initializations, provably recovers both the\nkernel a and the signals txiup\ni\u00101 up to a signed shift ambiguity. In comparison\nwith state-of-the-art results, our work shows signiﬁcant improvements in terms\nof sample complexity and computational efﬁciency. Our theoretical results are\ncorroborated by numerical experiments, whi",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Deferral to humans": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes",
+    "User influence": "Yes",
+    "Privacy": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes"
+  }
+}

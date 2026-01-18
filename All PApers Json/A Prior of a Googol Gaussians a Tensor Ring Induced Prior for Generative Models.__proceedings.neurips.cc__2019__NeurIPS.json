@@ -1,0 +1,22 @@
+{
+  "pdf": "A Prior of a Googol Gaussians a Tensor Ring Induced Prior for Generative Models.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Prior of a Googol Gaussians: a Tensor Ring\nInduced Prior for Generative Models\nMaksim Kuznetsov1,∗ Daniil Polykovskiy1,∗ Dmitry Vetrov2 Alexander Zhebrak1\n1Insilico Medicine 2National Research University Higher School of Economics\n{kuznetsov,daniil,zhebrak}@insilico.com vetrovd@yandex.ru\nAbstract\nGenerative models produce realistic objects in many domains, including text, im-\nage, video, and audio synthesis. Most popular models—Generative Adversarial\nNetworks (GANs) and Variational Autoencoders (V AEs)—usually employ a stan-\ndard Gaussian distribution as a prior. Previous works show that the richer family\nof prior distributions may help to avoid the mode collapse problem in GANs and\nto improve the evidence lower bound in V AEs. We propose a new family of prior\ndistributions—Tensor Ring Induced Prior (TRIP)—that packs an exponential num-\nber of Gaussians into a high-dimensional lattice with a relatively small number\nof parameters. We show that these priors improve Fréchet Inception Di",
+  "values": {
+    "Respect for Law and public interest": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Fairness": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Beneficence": "Yes",
+    "Justice": "Yes",
+    "Deferral to humans": "Yes",
+    "User influence": "Yes",
+    "Explicability": "Yes",
+    "Privacy": "Yes",
+    "Critiqability": "Yes",
+    "Collective influence": "Yes"
+  }
+}

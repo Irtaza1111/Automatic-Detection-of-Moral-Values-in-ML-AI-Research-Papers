@@ -1,0 +1,22 @@
+{
+  "pdf": "A general framework for investigating how far the decoding process in the brain can be simplified.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A general framework for investigating how far the\nd\necoding process in the brain can be simpliﬁed\nMasafumi Oizumi 1, Toshiyuki Ishii2, Kazuya Ishibashi1\nToshihiko Hosoya2, Masato Okada1,2\noizumi@mns.k.u-tokyo.ac.jp\ntishii@brain.riken.jp,kazuya@mns.k.u-tokyo.ac.jp\nhosoya@brain.riken.jp, okada@k.u-tokyo.ac.jp\n1 University of Tokyo, Kashiwa-shi, Chiba, JAPAN\n2 RIKEN Brain Science Institute, Wako-shi, Saitama, JAPAN\nAbstract\n“How is information decoded in the brain?” is one of the most difﬁcult and im-\nportant questions in neuroscience. Whether neural correlation is important or not\nin decoding neural activities is of special interest. We have developed a general\nframework for investigating how far the decoding process in the brain can be sim-\npliﬁed. First, we hierarchically construct simpliﬁed probabilistic models of neu-\nral responses that ignore more thanKth-order correlations by using a maximum\nentropy principle. Then, we compute how much information is lost when infor-\nmation is deco",
+  "values": {
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Justice": "Yes",
+    "User influence": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Beneficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

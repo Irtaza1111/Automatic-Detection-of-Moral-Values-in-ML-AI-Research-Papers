@@ -1,0 +1,22 @@
+{
+  "pdf": "A Primal Dual Formulation For Deep Learning With Constraints.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Primal-Dual Formulation for Deep Learning with\nConstraints\nYatin Nandwani, Abhishek Pathak, Mausam and Parag Singla\nDepartment of Computer Science and Engineering\nIndian Institute of Technology Delhi\n{yatin.nandwani,abhishek.pathak.cs115,mausam,parags}@cse.iitd.ac.in\nAbstract\nFor several problems of interest, there are natural constraints which exist over the\noutput label space. For example, for the joint task of NER and POS labeling, these\nconstraints might specify that the NER label ‘organization’ is consistent only with\nthe POS labels ‘noun’ and ‘preposition’. These constraints can be a great way of\ninjecting prior knowledge into a deep learning model, thereby improving overall\nperformance. In this paper, we present a constrained optimization formulation for\ntraining a deep network with a given set of hard constraints on output labels. Our\nnovel approach ﬁrst converts the label constraints into soft logic constraints over\nprobability distributions outputted by the network. It then",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Critiqability": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Beneficence": "Yes",
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Respect for Persons": "Yes",
+    "Fairness": "Yes",
+    "Privacy": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

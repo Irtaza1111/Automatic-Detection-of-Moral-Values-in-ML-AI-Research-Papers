@@ -1,0 +1,22 @@
+{
+  "pdf": "A Game Theoretic Approach to Class-wise Selective Rationalization.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Game Theoretic Approach to Class-wise Selective\nRationalization\nShiyu Chang1,2∗ Yang Zhang1,2∗ Mo Yu2∗ Tommi S. Jaakkola3\n1MIT-IBM Watson AI Lab 2IBM Research 3CSAIL MIT\n{shiyu.chang,yang.zhang2}@ibm.com yum@us.ibm.com tommi@csail.mit.edu\nAbstract\nSelection of input features such as relevant pieces of text has become a common\ntechnique of highlighting how complex neural predictors operate. The selection can\nbe optimized post-hoc for trained models or incorporated directly into the method\nitself (self-explaining). However, an overall selection does not properly capture the\nmulti-faceted nature of useful rationales such as pros and cons for decisions. To this\nend, we propose a new game theoretic approach to class-dependent rationalization,\nwhere the method is speciﬁcally trained to highlight evidence supporting alternative\nconclusions. Each class involves three players set up competitively to ﬁnd evidence\nfor factual and counterfactual scenarios. We show theoretically in a simpliﬁed\nsc",
+  "values": {
+    "Collective influence": "No",
+    "User influence": "No",
+    "Fairness": "No",
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Respect for Persons": "No",
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Justice": "No",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "Beneficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No"
+  }
+}

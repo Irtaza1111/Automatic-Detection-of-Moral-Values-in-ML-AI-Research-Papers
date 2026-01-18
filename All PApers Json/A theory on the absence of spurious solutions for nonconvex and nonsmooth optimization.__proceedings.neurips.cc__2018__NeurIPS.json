@@ -1,0 +1,22 @@
+{
+  "pdf": "A theory on the absence of spurious solutions for nonconvex and nonsmooth optimization.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A theory on the absence of spurious solutions for\nnonconvex and nonsmooth optimization\nC. Josz\nEECS, UC Berkeley\ncedric.josz@gmail.com\nY. Ouyang\nIEOR, UC Berkeley\nouyangyii@gmail.com\nR. Y. Zhang\nIEOR, UC Berkeley\nryz@berkeley.edu\nJ. Lavaei\nIEOR, UC Berkeley\nlavaei@berkeley.edu\nS. Sojoudi\nEECS, UC Berkeley\nsojoudi@berkeley.edu\nAbstract\nWe study the set of continuous functions that admit no spurious local optima\n(i.e. local minima that are not global minima) which we term global functions.\nThey satisfy various powerful properties for analyzing nonconvex and nonsmooth\noptimization problems. For instance, they satisfy a theorem akin to the fundamental\nuniform limit theorem in the analysis regarding continuous functions. Global\nfunctions are also endowed with useful properties regarding the composition of\nfunctions and change of variables. Using these new results, we show that a class of\nnonconvex and nonsmooth optimization problems arising in tensor decomposition\napplications are global fu",
+  "values": {
+    "Transparent (to users)": "No",
+    "Respect for Persons": "No",
+    "Interpretable (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Collective influence": "No",
+    "Beneficence": "No"
+  }
+}

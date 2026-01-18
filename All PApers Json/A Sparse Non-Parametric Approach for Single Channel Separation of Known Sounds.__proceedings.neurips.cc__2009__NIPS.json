@@ -1,0 +1,22 @@
+{
+  "pdf": "A Sparse Non-Parametric Approach for Single Channel Separation of Known Sounds.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Sparse Non-Parametric Approach for Single\nChannel Separation of Known Sounds\nParis Smaragdis\nAdobe Systems Inc.\nparis@adobe.com\nMadhusudana Shashanka\nMars Inc.\nshashanka@alum.bu.edu\nBhiksha Raj\nCarnegie Mellon University\nbhiksha@cs.cmu.edu\nAbstract\nIn this paper we present an algorithm for separating mixed so unds from\na monophonic recording. Our approach makes use of training d ata which\nallows us to learn representations of the types of sounds tha t compose the\nmixture. In contrast to popular methods that attempt to extr act com-\npact generalizable models for each sound from training data , we employ\nthe training data itself as a representation of the sources i n the mixture.\nW e show that mixtures of known sounds can be described as spar se com-\nbinations of the training data itself, and in doing so produc e signiﬁcantly\nbetter separation results as compared to similar systems ba sed on compact\nstatistical models.\nKeywords: Example-Based Representation, Signal Separation, Sparse M",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "Deferral to humans": "Yes",
+    "Respect for Persons": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Explicability": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "User influence": "Yes",
+    "Not socially biased": "Yes",
+    "Collective influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Beneficence": "Yes",
+    "Critiqability": "Yes"
+  }
+}

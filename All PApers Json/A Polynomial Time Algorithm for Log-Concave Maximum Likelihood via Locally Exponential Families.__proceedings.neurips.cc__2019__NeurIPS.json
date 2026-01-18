@@ -1,0 +1,22 @@
+{
+  "pdf": "A Polynomial Time Algorithm for Log-Concave Maximum Likelihood via Locally Exponential Families.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Polynomial Time Algorithm for Log-Concave\nMaximum Likelihood via Locally Exponential\nFamilies\nBrian Axelrod\nDepartment of Computer Science\nStanford University\nbaxelrod@cs.stanford.edu\nIlias Diakonikolas\nDepartment of Computer Science\nUniversity of Wisconsin-Madison\nilias.diakonikolas@gmail.com\nAnastasios Sidiropoulos\nDepartment of Computer Science\nUniversity of Illinois at Chicago\nsidiropo@gmail.com\nAlistair Stewart\nWeb3 Foundation\nstewart.al@gmail.com\nGregory Valiant\nDepartment of Computer Science\nStanford University\ngvaliant@stanford.edu\nAbstract\nWe consider the problem of computing the maximum likelihood multivariate log-\nconcave distribution for a set of points. Speciﬁcally, we present an algorithm which,\ngiven n points inRd and an accuracy parameter✏> 0, runs in timepoly(n, d,1/✏),\nand returns a log-concave distribution which, with high probability, has the property\nthat the likelihood of then points under the returned distribution is at most an\nadditive ✏ less than the maximum ",
+  "values": {
+    "Privacy": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Collective influence": "Yes",
+    "User influence": "Yes",
+    "Justice": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Explicability": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Critiqability": "Yes",
+    "Deferral to humans": "Yes",
+    "Beneficence": "Yes"
+  }
+}

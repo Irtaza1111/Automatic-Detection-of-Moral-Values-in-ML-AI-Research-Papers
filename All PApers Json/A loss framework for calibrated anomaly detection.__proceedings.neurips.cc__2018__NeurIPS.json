@@ -1,0 +1,22 @@
+{
+  "pdf": "A loss framework for calibrated anomaly detection.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A loss framework for calibrated anomaly detection\nAditya Krishna Menon\nAustralian National University∗\naditya.menon@anu.edu.au\nRobert C. Williamson\nAustralian National University\nbob.williamson@anu.edu.au\nAbstract\nGiven samples from a distribution, anomaly detection is the problem of determining\nif a given point lies in a low-density region. This paper concernscalibrated anomaly\ndetection, which is the practically relevant extension where we additionally wish to\nproduce a conﬁdence score for a point being anomalous. Building on a classiﬁcation\nframework for standard anomaly detection, we show how minimisation of a suitable\nproper loss produces density estimates only for anomalous instances. These are\nshown to naturally relate to the pinball loss, which provides implicit quantile\ncontrol. Finally, leveraging a result from point processes, we show how to efﬁciently\noptimise a special case of the objective with kernelised scores. Our framework is\nshown to incorporate a close relative of t",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "Critiqability": "No",
+    "Respect for Persons": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "User influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "Fairness": "No",
+    "Justice": "No",
+    "Beneficence": "No",
+    "Collective influence": "No"
+  }
+}

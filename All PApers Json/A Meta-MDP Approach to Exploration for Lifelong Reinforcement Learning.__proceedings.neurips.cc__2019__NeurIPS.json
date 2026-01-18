@@ -1,0 +1,22 @@
+{
+  "pdf": "A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Meta-MDP Approach to Exploration\nfor Lifelong Reinforcement Learning\nFrancisco M. Garcia and Philip S. Thomas\nCollege of Information and Computer Sciences\nUniversity of Massachusetts Amherst\nAmherst, MA, USA\n{fmgarcia,pthomas}@cs.umass.edu\nAbstract\nIn this paper we consider the problem of how a reinforcement learning agent that\nis tasked with solving a sequence of reinforcement learning problems (a sequence\nof Markov decision processes) can use knowledge acquired early in its lifetime to\nimprove its ability to solve new problems. We argue that previous experience with\nsimilar problems can provide an agent with information about how it shouldexplore\nwhen facing a new but related problem. We show that the search for an optimal\nexploration strategy can be formulated as a reinforcement learning problem itself\nand demonstrate that such strategy can leverage patterns found in the structure\nof related problems. We conclude with experiments that show the beneﬁts of\noptimizing an exploration ",
+  "values": {
+    "Deferral to humans": "Yes",
+    "Explicability": "Yes",
+    "User influence": "Yes",
+    "Privacy": "Yes",
+    "Collective influence": "Yes",
+    "Beneficence": "Yes",
+    "Critiqability": "Yes",
+    "Non-maleficence": "Yes",
+    "Respect for Persons": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Fairness": "Yes",
+    "Justice": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Not socially biased": "Yes",
+    "Transparent (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes"
+  }
+}

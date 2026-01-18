@@ -1,0 +1,22 @@
+{
+  "pdf": "A Linearly Convergent Proximal Gradient Algorithm for Decentralized Optimization.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Linearly Convergent Proximal Gradient Algorithm\nfor Decentralized Optimization\nSulaiman A. Alghunaim, Kun Yuan\nElectrical and Computer Engineering Department\nUniversity of California Los Angeles\nLos Angeles, CA, 90095\n{salghunaim,kunyuan}@ucla.edu\nAli H. Sayed\nEcole Polytechnique Fédérale de Lausanne\nCH-1015 Lausanne, Switzerland\nali.sayed@epfl.ch\nAbstract\nDecentralized optimization is a powerful paradigm that ﬁnds applications in engi-\nneering and learning design. This work studies decentralized composite optimiza-\ntion problems with non-smooth regularization terms. Most existing gradient-based\nproximal decentralized methods are known to converge to the optimal solution\nwith sublinear rates, and it remains unclear whether this family of methods can\nachieve global linear convergence. To tackle this problem, this work assumes the\nnon-smooth regularization term is common across all networked agents, which is\nthe case for many machine learning problems. Under this condition, we design a",
+  "values": {
+    "Transparent (to users)": "No",
+    "Interpretable (to users)": "No",
+    "Deferral to humans": "No",
+    "Collective influence": "No",
+    "User influence": "No",
+    "Not socially biased": "No",
+    "Beneficence": "No",
+    "Critiqability": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Persons": "No",
+    "Explicability": "No",
+    "Fairness": "No",
+    "Respect for Law and public interest": "No",
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Justice": "No"
+  }
+}

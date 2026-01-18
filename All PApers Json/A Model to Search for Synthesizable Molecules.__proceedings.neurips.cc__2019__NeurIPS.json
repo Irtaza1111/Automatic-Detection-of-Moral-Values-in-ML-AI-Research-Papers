@@ -1,0 +1,22 @@
+{
+  "pdf": "A Model to Search for Synthesizable Molecules.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Model to Search for Synthesizable Molecules\nJohn Bradshaw\nUniversity of Cambridge\nMPI for Intelligent Systems\njab255@cam.ac.uk\nBrooks Paige\nUniversity of Cambridge\nThe Alan Turing Institute\nbpaige@turing.ac.uk\nMatt J. Kusner\nUniversity College London\nThe Alan Turing Institute\nm.kusner@ucl.ac.uk\nMarwin H. S. Segler\nBenevolentAI\nWestfälische Wilhelms-Universität Münster\nmarwin.segler@benevolent.ai\nJosé Miguel Hernández-Lobato\nUniversity of Cambridge\nThe Alan Turing Institute\nMicrosoft Research Cambridge\njmh233@cam.ac.uk\nAbstract\nDeep generative models are able to suggest new organic molecules by generating\nstrings, trees, and graphs representing their structure. While such models allow\none to generate molecules with desirable properties, they give no guarantees that\nthe molecules can actually be synthesized in practice. We propose a new molecule\ngeneration model, mirroring a more realistic real-world process, where (a) reactants\nare selected, and (b) combined to form more complex molec",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Collective influence": "No",
+    "Privacy": "No",
+    "Not socially biased": "No",
+    "User influence": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Deferral to humans": "No",
+    "Interpretable (to users)": "No",
+    "Non-maleficence": "No",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

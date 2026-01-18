@@ -1,0 +1,22 @@
+{
+  "pdf": "A Step Toward Quantifying Independently Reproducible Machine Learning Research.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Step Toward Quantifying Independently\nReproducible Machine Learning Research\nEdward Raff\nBooz Allen Hamilton\nraff_edward@bah.com\nUniversity of Maryland, Baltimore County\nraff.edward@umbc.edu\nAbstract\nWhat makes a paper independently reproducible? Debates on reproducibility cen-\nter around intuition or assumptions but lack empirical results. Our ﬁeld focuses\non releasing code, which is important, but is not sufﬁcient for determining repro-\nducibility. We take the ﬁrst step toward a quantiﬁable answer by manually attempt-\ning to implement 255 papers published from 1984 until 2017, recording features\nof each paper, and performing statistical analysis of the results. For each paper,\nwe did not look at the authors code, if released, in order to prevent bias toward\ndiscrepancies between code and paper.\n1 Introduction\nAs the ﬁelds of Artiﬁcial Intelligence (AI) and Machine Learning (ML) have grown in recent years,\nso too have calls that we are currently in an AI/ML reproducibility crisis [1",
+  "values": {
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Critiqability": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Beneficence": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

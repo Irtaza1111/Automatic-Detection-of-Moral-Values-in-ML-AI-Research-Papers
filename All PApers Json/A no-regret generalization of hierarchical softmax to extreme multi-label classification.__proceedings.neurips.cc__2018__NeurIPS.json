@@ -1,0 +1,22 @@
+{
+  "pdf": "A no-regret generalization of hierarchical softmax to extreme multi-label classification.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A no-regret generalization of hierarchical softmax to\nextreme multi-label classiﬁcation\nMarek Wydmuch\nInstitute of Computing Science\nPoznan University of Technology, Poland\nmwydmuch@cs.put.poznan.pl\nKalina Jasinska\nInstitute of Computing Science\nPoznan University of Technology, Poland\nkjasinska@cs.put.poznan.pl\nMikhail Kuznetsov\nYahoo! Research\nNew York, USA\nkuznetsov@oath.com\nRóbert Busa-Fekete\nYahoo! Research\nNew York, USA\nbusafekete@oath.com\nKrzysztof Dembczy´nski\nInstitute of Computing Science\nPoznan University of Technology, Poland\nkdembczynski@cs.put.poznan.pl\nAbstract\nExtreme multi-label classiﬁcation (XMLC) is a problem of tagging an instance with\na small subset of relevant labels chosen from an extremely large pool of possible\nlabels. Large label spaces can be efﬁciently handled by organizing labels as a tree,\nlike in the hierarchical softmax (HSM) approach commonly used for multi-class\nproblems. In this paper, we investigate probabilistic label trees (PLTs) that have\nbeen rec",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "User influence": "No",
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Beneficence": "No",
+    "Not socially biased": "No",
+    "Respect for Persons": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No",
+    "Deferral to humans": "No",
+    "Interpretable (to users)": "No",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

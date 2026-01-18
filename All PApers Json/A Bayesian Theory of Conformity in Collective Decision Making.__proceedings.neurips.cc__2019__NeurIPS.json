@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayesian Theory of Conformity in Collective Decision Making.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Bayesian Theory of Conformity in Collective\nDecision Making\nKoosha Khalvati\nPaul G. Allen School of CSE\nUniversity of Washington\nkoosha@cs.washington.edu\nSaghar Mirbagheri\nDepartment of Psychology\nNew York University\nsm7369@nyu.edu\nSeongmin A. Park\nCenter for Mind and Brain\nUniversity of California, Davis\npark@isc.cnrs.fr\nJean-Claude Dreher\nNeuroeconomics Lab\nInstitut des Sciences Cognitives Marc Jeannerod\ndreher@isc.cnrs.fr\nRajesh P. N. Rao\nPaul G. Allen School of CSE &\nCenter for Neurotechnology\nUniversity of Washington\nrao@cs.washington.edu\nAbstract\nIn collective decision making, members of a group need to coordinate their actions\nin order to achieve a desirable outcome. When there is no direct communication\nbetween group members, one must decide based on inferring others’ intentions\nfrom their actions. The inference of others’ intentions is called \"theory of mind\"\nand can involve different levels of reasoning, from a single inference of a hidden\nvariable to considering others par",
+  "values": {
+    "Collective influence": "Yes",
+    "User influence": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Critiqability": "Yes",
+    "Not socially biased": "Yes",
+    "Justice": "Yes",
+    "Deferral to humans": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Persons": "Yes",
+    "Explicability": "Yes",
+    "Fairness": "Yes",
+    "Privacy": "Yes",
+    "Beneficence": "Yes",
+    "Non-maleficence": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Autonomy (power to decide)": "Yes"
+  }
+}

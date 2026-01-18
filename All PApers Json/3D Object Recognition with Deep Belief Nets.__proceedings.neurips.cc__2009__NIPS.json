@@ -1,0 +1,22 @@
+{
+  "pdf": "3D Object Recognition with Deep Belief Nets.__proceedings.neurips.cc__2009__NIPS",
+  "text": "3D Object Recognition with Deep Belief Nets\nVinod Nair and Geoﬀrey E. Hinton\nDepartment of Computer Science, University of T oronto\n10 King’s College Road, T oronto, M5S 3G5 Canada\n{vnair,hinton}@cs.toronto.edu\nAbstract\nW e introduce a new type of top-level model for Deep Belief Nets and evalu-\nate it on a 3D object recognition task. The top-level model is a third-order\nBoltzmann machine, trained using a hybrid algorithm that combines both\ngenerative and discriminative gradients. Performance is evaluated on the\nNORB database ( normalized-uniform version), which contains stereo-pair\nimages of objects under diﬀerent lighting conditions and viewpoints. Our\nmodel achieves 6.5% error on the test set, which is close to the best pub-\nlished result for NORB (5.9%) using a convolutional neural net that has\nbuilt-in knowledge of translation invariance. It substantially outperfor ms\nshallow models such as SVMs (11.6%). DBNs are especially suited for\nsemi-supervised learning, and to demonstrate th",
+  "values": {
+    "Critiqability": "No",
+    "Respect for Persons": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Beneficence": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "User influence": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Justice": "No",
+    "Deferral to humans": "No",
+    "Non-maleficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A convex program for bilinear inversion of sparse vectors.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A convex program for bilinear inversion of sparse\nvectors\nAlireza Aghasi\nGeorgia State Business School\nGSU, GA\naaghasi@gsu.edu\nAli Ahmed\nDept. of Electrical Engineering\nITU, Lahore\nali.ahmed@itu.edu.pk\nPaul Hand\nDept. of Mathematics and College of Computer and Information Science\nNortheastern University, MA\np.hand@northeastern.edu\nBabhru Joshi\nDept. of Computational and Applied Mathematics\nRice University, TX\nbabhru.joshi@rice.edu\nAbstract\nWe consider the bilinear inverse problem of recovering two vectors,x 2 RL and\nw 2 RL, from their entrywise product. We consider the case wherex and w have\nknown signs and are sparse with respect to known dictionaries of sizeK and N,\nrespectively. Here,K and N may be larger than, smaller than, or equal toL.W e\nintroduce `1-BranchHull, which is a convex program posed in the natural parameter\nspace and does not require an approximate solution or initialization in order to\nbe stated or solved. We study the case wherex and w are S1- and S2-sparse\nwith res",
+  "values": {
+    "Explicability": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Beneficence": "Yes",
+    "Privacy": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Collective influence": "Yes",
+    "Fairness": "Yes",
+    "Transparent (to users)": "Yes",
+    "Justice": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

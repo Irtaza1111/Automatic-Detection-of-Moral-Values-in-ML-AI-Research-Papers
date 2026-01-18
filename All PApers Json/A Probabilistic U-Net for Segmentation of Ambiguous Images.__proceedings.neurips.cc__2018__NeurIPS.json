@@ -1,0 +1,22 @@
+{
+  "pdf": "A Probabilistic U-Net for Segmentation of Ambiguous Images.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Probabilistic U-Net for Segmentation of Ambiguous\nImages\nSimon A. A. Kohl1∗,2,, Bernardino Romera-Paredes1, Clemens Meyer1, Jeffrey De Fauw1,\nJoseph R. Ledsam1, Klaus H. Maier-Hein2, S. M. Ali Eslami1, Danilo Jimenez Rezende1, and\nOlaf Ronneberger1\n1DeepMind, London, UK\n2Division of Medical Image Computing, German Cancer Research Center, Heidelberg, Germany\n{simon.kohl,k.maier-hein}@dkfz.de\n{brp,meyerc,defauw,jledsam,aeslami,danilor,olafr}@google.com\nAbstract\nMany real-world vision problems suffer from inherent ambiguities. In clinical\napplications for example, it might not be clear from a CT scan alone which par-\nticular region is cancer tissue. Therefore a group of graders typically produces\na set of diverse but plausible segmentations. We consider the task of learning a\ndistribution over segmentations given an input. To this end we propose a generative\nsegmentation model based on a combination of a U-Net with a conditional vari-\national autoencoder that is capable of efﬁciently pr",
+  "values": {
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Collective influence": "Yes",
+    "User influence": "Yes",
+    "Beneficence": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Fairness": "Yes",
+    "Non-maleficence": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "Deferral to humans": "Yes",
+    "Transparent (to users)": "Yes",
+    "Justice": "Yes"
+  }
+}

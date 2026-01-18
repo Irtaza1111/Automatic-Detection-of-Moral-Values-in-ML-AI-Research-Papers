@@ -1,0 +1,22 @@
+{
+  "pdf": "A computational model of hippocampal function in trace conditioning.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A computational model of hippocampal function in\ntrace conditioning\nElliot A. Ludvig, Richard S. Sutton, Eric Verbeek\nDepartment of Computing Science\nUniversity of Alberta\nEdmonton, AB, Canada T6G 2E8\n{elliot,sutton,everbeek}@cs.ualberta.ca\nE. James Kehoe\nSchool of Psychology\nUniversity of New South Wales\nSydney, NSW, Australia 2052\nj.kehoe@unsw.edu.au\nAbstract\nWe introduce a new reinforcement-learning model for the role of the hippocam-\npus in classical conditioning, focusing on the differences between trace and de-\nlay conditioning. In the model, all stimuli are represented both as unindividu-\nated wholes and as a series of temporal elements with varying delays. These two\nstimulus representations interact, producing different patterns of learning in trace\nand delay conditioning. The model proposes that hippocampal lesions eliminate\nlong-latency temporal elements, but preserve short-latency temporal elements. For\ntrace conditioning, with no contiguity between cue and reward, these lon",
+  "values": {
+    "Deferral to humans": "No",
+    "User influence": "No",
+    "Critiqability": "No",
+    "Collective influence": "No",
+    "Explicability": "No",
+    "Beneficence": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "Transparent (to users)": "No",
+    "Non-maleficence": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Fairness": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

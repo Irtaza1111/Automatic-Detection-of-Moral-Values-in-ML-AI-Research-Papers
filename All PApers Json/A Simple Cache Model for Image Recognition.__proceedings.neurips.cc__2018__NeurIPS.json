@@ -1,0 +1,22 @@
+{
+  "pdf": "A Simple Cache Model for Image Recognition.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Simple Cache Model for Image Recognition\nEmin Orhan\naeminorhan@gmail.com\nBaylor College of Medicine & New York University\nAbstract\nTraining large-scale image recognition models is computationally expensive.\nThis raises the question of whether there might be simple ways to improve\nthe test performance of an already trained model without having to re-train\nor ﬁne-tune it with new data. Here, we show that, surprisingly, this is\nindeed possible. The key observation we make is that the layers of a deep\nnetwork close to the output layer contain independent, easily extractable\nclass-relevant information that is not contained in the output layer itself.\nWe propose to extract this extra class-relevant information using a simple\nkey-value cache memory to improve the classiﬁcation performance of the\nmodel at test time. Our cache memory is directly inspired by a similar\ncache model previously proposed for language modeling (Grave et al., 2017).\nThis cache component does not require any training ",
+  "values": {
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Critiqability": "No",
+    "Collective influence": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Interpretable (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No"
+  }
+}

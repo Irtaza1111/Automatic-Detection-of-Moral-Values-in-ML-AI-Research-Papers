@@ -1,0 +1,22 @@
+{
+  "pdf": "A Convex Duality Framework for GANs.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Convex Duality Framework for GANs\nFarzan Farnia∗\nfarnia@stanford.edu\nDavid Tse∗\ndntse@stanford.edu\nAbstract\nGenerative adversarial network (GAN) is a minimax game between a generator\nmimicking the true model and a discriminator distinguishing the samples produced\nby the generator from the real training samples. Given an unconstrained discrimi-\nnator able to approximate any function, this game reduces to ﬁnding the generative\nmodel minimizing a divergence score, e.g. the Jensen-Shannon (JS) divergence, to\nthe data distribution. However, in practice the discriminator is constrained to be\nin a smaller class Fsuch as convolutional neural nets. Then, a natural question is\nhow the divergence minimization interpretation will change as we constrain F. In\nthis work, we address this question by developing a convex duality framework for\nanalyzing GAN minimax problems. For a convex set F, this duality framework\ninterprets the original vanilla GAN problem as ﬁnding the generative model with\nthe m",
+  "values": {
+    "Respect for Law and public interest": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "User influence": "Yes",
+    "Respect for Persons": "Yes",
+    "Privacy": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Justice": "Yes",
+    "Not socially biased": "Yes",
+    "Collective influence": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

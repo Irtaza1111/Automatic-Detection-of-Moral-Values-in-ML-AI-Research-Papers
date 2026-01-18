@@ -1,0 +1,22 @@
+{
+  "pdf": "A Robust Non-Clairvoyant Dynamic Mechanism for Contextual Auctions.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Robust Non-Clairvoyant Dynamic Mechanism for\nContextual Auctions\nYuan Deng\nDuke University\nDurham, NC\nericdy@cs.duke.edu\nSébastien Lahaie\nGoogle Research\nNew York City, NY\nslahaie@google.com\nVahab Mirrokni\nGoogle Research\nNew York City, NY\nmirrokni@google.com\nAbstract\nDynamic mechanisms offer powerful techniques to improve on both revenue and\nefﬁciency by linking sequential auctions using state information, but these tech-\nniques rely on exact distributional information of the buyers’ valuations (present\nand future), which limits their use in learning settings. In this paper, we consider\nthe problem of contextual auctions where the seller gradually learns a model of\nthe buyer’s valuation as a function of the context (e.g., item features) and seeks a\npricing policy that optimizes revenue. Building on the concept of a bank account\nmechanism—a special class of dynamic mechanisms that is known to be revenue-\noptimal—we develop a non-clairvoyant dynamic mechanism that is robust to both\nes",
+  "values": {
+    "Critiqability": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Not socially biased": "No",
+    "Privacy": "No",
+    "Explicability": "No",
+    "Non-maleficence": "No",
+    "Beneficence": "No",
+    "Fairness": "No",
+    "Interpretable (to users)": "No",
+    "Respect for Persons": "No",
+    "Justice": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Deferral to humans": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

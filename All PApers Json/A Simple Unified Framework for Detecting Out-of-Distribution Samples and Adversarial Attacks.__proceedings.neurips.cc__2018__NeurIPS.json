@@ -1,0 +1,22 @@
+{
+  "pdf": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Simple Uniﬁed Framework for Detecting\nOut-of-Distribution Samples and Adversarial Attacks\nKimin Lee1, Kibok Lee2, Honglak Lee3,2, Jinwoo Shin1,4\n1Korea Advanced Institute of Science and Technology (KAIST)\n2University of Michigan\n3Google Brain\n4AItrics\nAbstract\nDetecting test samples drawn sufﬁciently far away from the training distribution\nstatistically or adversarially is a fundamental requirement for deploying a good\nclassiﬁer in many real-world machine learning applications. However, deep neu-\nral networks with the softmax classiﬁer are known to produce highly overconﬁdent\nposterior distributions even for such abnormal samples. In this paper, we propose\na simple yet effective method for detecting any abnormal samples, which is appli-\ncable to any pre-trained softmax neural classiﬁer. We obtain the class conditional\nGaussian distributions with respect to (low- and upper-level) features of the deep\nmodels under Gaussian discriminant analysis, which result in a conﬁdence score\nbased ",
+  "values": {
+    "Explicability": "Yes",
+    "Privacy": "Yes",
+    "Critiqability": "Yes",
+    "Fairness": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Beneficence": "Yes",
+    "Respect for Persons": "Yes",
+    "Justice": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Not socially biased": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

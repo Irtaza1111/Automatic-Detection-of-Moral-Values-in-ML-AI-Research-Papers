@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayes-Sard Cubature Method.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Bayes–Sard Cubature Method\nToni Karvonen\nAalto University, Finland\ntoni.karvonen@aalto.fi\nChris. J. Oates\nNewcastle University, UK\nAlan Turing Institute, UK\nchris.oates@ncl.ac.uk\nSimo Särkkä\nAalto University, Finland\nsimo.sarkka@aalto.fi\nAbstract\nThis paper focusses on the formulation of numerical integration as an inferential\ntask. To date, research effort has largely focussed on the development of Bayesian\ncubature, whose distributional output provides uncertainty quantiﬁcation for the\nintegral. However, the point estimators associated to Bayesian cubature can be\ninaccurate and acutely sensitive to the prior when the domain is high-dimensional.\nTo address these drawbacks we introduce Bayes–Sard cubature, a probabilistic\nframework that combines the ﬂexibility of Bayesian cubature with the robustness\nof classical cubatures which are well-established. This is achieved by considering\na Gaussian process model for the integrand whose mean is a parametric regression\nmodel, with an imprope",
+  "values": {
+    "Deferral to humans": "No",
+    "Not socially biased": "No",
+    "Non-maleficence": "No",
+    "Interpretable (to users)": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Explicability": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Privacy": "No",
+    "Critiqability": "No",
+    "Fairness": "No"
+  }
+}

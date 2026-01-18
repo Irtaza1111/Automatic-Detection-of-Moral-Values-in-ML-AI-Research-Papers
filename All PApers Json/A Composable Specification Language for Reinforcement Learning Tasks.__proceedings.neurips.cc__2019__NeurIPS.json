@@ -1,0 +1,22 @@
+{
+  "pdf": "A Composable Specification Language for Reinforcement Learning Tasks.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Composable Speciﬁcation Language for\nReinforcement Learning Tasks\nKishor Jothimurugan, Rajeev Alur, Osbert Bastani\nUniversity of Pennsylvania\n{kishor,alur,obastani}@cis.upenn.edu\nAbstract\nReinforcement learning is a promising approach for learning control policies for\nrobot tasks. However, specifying complex tasks (e.g., with multiple objectives\nand safety constraints) can be challenging, since the user must design a reward\nfunction that encodes the entire task. Furthermore, the user often needs to manually\nshape the reward to ensure convergence of the learning algorithm. We propose\na language for specifying complex control tasks, along with an algorithm that\ncompiles speciﬁcations in our language into a reward function and automatically\nperforms reward shaping. We implement our approach in a tool called SPECTRL ,\nand show that it outperforms several state-of-the-art baselines.\n1 Introduction\nReinforcement learning (RL) is a promising approach to learning control policies for robotic",
+  "values": {
+    "User influence": "No",
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Collective influence": "No",
+    "Critiqability": "No",
+    "Non-maleficence": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No"
+  }
+}

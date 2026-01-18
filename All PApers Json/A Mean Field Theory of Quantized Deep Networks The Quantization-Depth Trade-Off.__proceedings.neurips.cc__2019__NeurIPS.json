@@ -1,0 +1,22 @@
+{
+  "pdf": "A Mean Field Theory of Quantized Deep Networks The Quantization-Depth Trade-Off.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Mean Field Theory of Quantized Deep Networks:\nThe Quantization-Depth Trade-Off\nYaniv Blumenfeld\nTechnion, Israel\nyanivblm6@gmail.com\nDar Gilboa\nColumbia University\ndargilboa@gmail.com\nDaniel Soudry\nTechnion, Israel\ndaniel.soudry@gmail.com\nAbstract\nReducing the precision of weights and activation functions in neural network train-\ning, with minimal impact on performance, is essential for the deployment of these\nmodels in resource-constrained environments. We apply mean ﬁeld techniques\nto networks with quantized activations in order to evaluate the degree to which\nquantization degrades signal propagation at initialization. We derive initialization\nschemes which maximize signal propagation in such networks, and suggest why\nthis is helpful for generalization. Building on these results, we obtain a closed\nform implicit equation for Lmax, the maximal trainable depth (and hence model\ncapacity), given N, the number of quantization levels in the activation function.\nSolving this equation nume",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Not socially biased": "No",
+    "Autonomy (power to decide)": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Transparent (to users)": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Respect for Law and public interest": "No",
+    "Deferral to humans": "No"
+  }
+}

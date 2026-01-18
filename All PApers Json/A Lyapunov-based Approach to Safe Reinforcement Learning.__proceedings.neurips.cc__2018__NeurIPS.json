@@ -1,0 +1,22 @@
+{
+  "pdf": "A Lyapunov-based Approach to Safe Reinforcement Learning.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Lyapunov-based Approach to Safe Reinforcement\nLearning\nYinlam Chow\nDeepMind\nyinlamchow@google.com\nOﬁr Nachum\nGoogle Brain\nofirnachum@google.com\nEdgar Duenez-Guzman\nDeepMind\nduenez@google.com\nMohammad Ghavamzadeh\nFacebook AI Research\nmgh@fb.com\nAbstract\nIn many real-world reinforcement learning (RL) problems, besides optimizing the\nmain objective function, an agent must concurrently avoid violating a number of\nconstraints. In particular, besides optimizing performance, it is crucial to guar-\nantee the safety of an agent during training as well as deployment (e.g., a robot\nshould avoid taking actions - exploratory or not - which irrevocably harm its hard-\nware). To incorporate safety in RL, we derive algorithms under the framework\nof constrained Markov decision processes (CMDPs), an extension of the standard\nMarkov decision processes (MDPs) augmented with constraints on expected cu-\nmulative costs. Our approach hinges on a novel Lyapunov method. We deﬁne\nand present a method for constr",
+  "values": {
+    "Respect for Law and public interest": "Yes",
+    "Respect for Persons": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Privacy": "Yes",
+    "Not socially biased": "Yes",
+    "Critiqability": "Yes",
+    "Fairness": "Yes",
+    "User influence": "Yes",
+    "Justice": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Collective influence": "Yes",
+    "Explicability": "Yes",
+    "Beneficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

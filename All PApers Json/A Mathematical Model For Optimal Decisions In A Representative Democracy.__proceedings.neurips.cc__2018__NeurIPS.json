@@ -1,0 +1,22 @@
+{
+  "pdf": "A Mathematical Model For Optimal Decisions In A Representative Democracy.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Mathematical Model For Optimal Decisions In A\nRepresentative Democracy\nMalik Magdon-Ismail\nDepartment of Computer Science\nRensselaer Polytechnic Institute\nTroy, NY 12180\nmagdon@cs.rpi.edu\nLirong Xia\nDepartment of Computer Science\nRensselaer Polytechnic Institute\nTroy, NY 12180\nxial@cs.rpi.edu\nAbstract\nDirect democracy, where each voter casts one vote, fails when the average voter\ncompetence falls below 50%. This happens in noisy settings when voters have lim-\nited information. Representative democracy, where voters choose representatives to\nvote, can be an elixir in both these situations. We introduce a mathematical model\nfor studying representative democracy, in particular understanding the parameters\nof a representative democracy that gives maximum decision making capability. Our\nmain result states that under general and natural conditions,\n1. for ﬁxed voting cost, the optimal number of representatives is linear;\n2. for polynomial cost, the optimal number of representatives is loga",
+  "values": {
+    "Not socially biased": "No",
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Deferral to humans": "No",
+    "Transparent (to users)": "No",
+    "Privacy": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "Critiqability": "No",
+    "Justice": "No",
+    "Respect for Persons": "No",
+    "Explicability": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Beneficence": "No",
+    "Non-maleficence": "No"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Linear Speedup Analysis of Distributed Deep\nLearning with Sparse and Quantized Communication\nPeng Jiang\nThe Ohio State University\njiang.952@osu.edu\nGagan Agrawal\nThe Ohio State University\nagrawal@cse.ohio-state.edu\nAbstract\nThe large communication overhead has imposed a bottleneck on the performance\nof distributed Stochastic Gradient Descent (SGD) for training deep neural networks.\nPrevious works have demonstrated the potential of using gradient sparsiﬁcation\nand quantization to reduce the communication cost. However, there is still a lack\nof understanding about how sparse and quantized communication affects the con-\nvergence rate of the training algorithm. In this paper, we study the convergence\nrate of distributed SGD for non-convex optimization with two communication\nreducing strategies: sparse parameter averaging and gradient quantization. We\nshow thatO(1/\np\nMK ) convergence rate can be achieved if the sparsiﬁcation and\nquantization hyperparameters are conﬁgured properly. We also",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Persons": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "Beneficence": "Yes",
+    "User influence": "Yes",
+    "Fairness": "Yes",
+    "Non-maleficence": "Yes",
+    "Deferral to humans": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes"
+  }
+}

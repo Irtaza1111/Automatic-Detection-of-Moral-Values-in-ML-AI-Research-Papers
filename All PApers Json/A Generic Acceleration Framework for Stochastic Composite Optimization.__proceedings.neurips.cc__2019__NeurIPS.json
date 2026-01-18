@@ -1,0 +1,22 @@
+{
+  "pdf": "A Generic Acceleration Framework for Stochastic Composite Optimization.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Generic Acceleration Framework\nfor Stochastic Composite Optimization\nAndrei Kulunchakov and Julien Mairal\nUniv . Grenoble Alpes, Inria, CNRS, Grenoble INP , LJK, 38000 Grenoble, France\n❛♥❞r❡✐✳❦✉❧✉♥❝❤❛❦♦✈❅✐♥r✐❛✳❢r ❛♥❞ ❥✉❧✐❡♥✳♠❛✐r❛❧❅✐♥r✐❛✳❢r\nAbstract\nIn this paper, we introduce various mechanisms to obtain accelerated ﬁrst-order\nstochastic optimization algorithms when the objective function is convex or strongly\nconvex. Speciﬁcally , we extend the Catalyst approach originally designed for\ndeterministic objectives to the stochastic setting. Given an optimization method\nwith mild convergence guarantees for strongly convex problems, the challenge is to\naccelerate convergence to a noise-dominated region, and then achieve convergence\nwith an optimal worst-case complexity depending on the noise variance of the\ngradients. A side contribution of our work is also a generic analysis that can\nhandle inexact proximal operators, providing new insights about the robustness of\nstochastic algorithms w",
+  "values": {
+    "User influence": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes",
+    "Privacy": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Transparent (to users)": "Yes",
+    "Deferral to humans": "Yes",
+    "Beneficence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes",
+    "Non-maleficence": "Yes"
+  }
+}

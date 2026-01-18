@@ -1,0 +1,22 @@
+{
+  "pdf": "A Model for Learned Bloom Filters and Optimizing by Sandwiching.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Model for Learned Bloom Filters,\nand Optimizing by Sandwiching\nMichael Mitzenmacher\nSchool of Engineering and Applied Sciences\nHarvard University\nmichaelm@eecs.harvard.edu\nAbstract\nRecent work has suggested enhancing Bloom ﬁlters by using a pre-ﬁlter, based\non applying machine learning to determine a function that models the data set the\nBloom ﬁlter is meant to represent. Here we model such learned Bloom ﬁlters ,\nwith the following outcomes: (1) we clarify what guarantees can and cannot be\nassociated with such a structure; (2) we show how to estimate what size the learning\nfunction must obtain in order to obtain improved performance; (3) we provide a\nsimple method, sandwiching, for optimizing learned Bloom ﬁlters; and (4) we\npropose a design and analysis approach for a learned Bloomier ﬁlter, based on our\nmodeling approach.\n1 Introduction\nAn interesting recent paper, “The Case for Learned Index Structures” [7], argues that standard index\nstructures and related structures, such as Blo",
+  "values": {
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Privacy": "Yes",
+    "Beneficence": "Yes",
+    "Justice": "Yes",
+    "Transparent (to users)": "Yes",
+    "Critiqability": "Yes",
+    "Collective influence": "Yes",
+    "Interpretable (to users)": "Yes",
+    "User influence": "Yes",
+    "Fairness": "Yes",
+    "Explicability": "Yes",
+    "Deferral to humans": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A Block Coordinate Ascent Algorithm for Mean-Variance Optimization.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Block Coordinate Ascent Algorithm for\nMean-Variance Optimization\nTengyang Xie∗\nUMass Amherst\ntxie@cs.umass.edu\nBo Liu∗\nAuburn University\nboliu@auburn.edu\nYangyang Xu\nRensselaer Polytechnic Institute\nxuy21@rpi.edu\nMohammad Ghavamzadeh\nFacebook AI Research\nmgh@fb.com\nYinlam Chow\nGoogle DeepMind\nyinlamchow@google.com\nDaoming Lyu\nAuburn University\ndaoming.lyu@auburn.edu\nDaesub Yoon\nETRI\neyetracker@etri.re.kr\nAbstract\nRisk management in dynamic decision problems is a primary concern in many\nﬁelds, including ﬁnancial investment, autonomous driving, and healthcare. The\nmean-variance function is one of the most widely used objective functions in risk\nmanagement due to its simplicity and interpretability. Existing algorithms for\nmean-variance optimization are based on multi-time-scale stochastic approxima-\ntion, whose learning rate schedules are often hard to tune, and have only asymptotic\nconvergence proof. In this paper, we develop a model-free policy search frame-\nwork for mean-variance op",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Respect for Persons": "No",
+    "Non-maleficence": "No",
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Not socially biased": "No",
+    "Autonomy (power to decide)": "No",
+    "Beneficence": "No",
+    "Respect for Law and public interest": "No",
+    "Collective influence": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "User influence": "No",
+    "Fairness": "No",
+    "Privacy": "No",
+    "Justice": "No"
+  }
+}

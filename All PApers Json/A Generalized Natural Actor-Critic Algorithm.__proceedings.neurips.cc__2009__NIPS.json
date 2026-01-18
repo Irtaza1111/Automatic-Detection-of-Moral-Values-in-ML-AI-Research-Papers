@@ -1,0 +1,22 @@
+{
+  "pdf": "A Generalized Natural Actor-Critic Algorithm.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Generalized Natural Actor-Critic Algorithm\nTetsuro Morimuray, Eiji Uchibez, Junichiro Yoshimotoz, Kenji Doyaz\ny: IBM Research  Tokyo, Kanagawa, Japan\nz: Okinawa Institute of Science and Technology, Okinawa, Japan\ntetsuro@jp.ibm.com, fuchibe,jun-y,doyag@oist.jp\nAbstract\nPolicy gradient Reinforcement Learning (RL) algorithms have received substan-\ntial attention, seeking stochastic policies that maximize the average (or discounted\ncumulative) reward. In addition, extensions based on the concept of the Natural\nGradient (NG) show promising learning ef\u0002ciency because these regard metrics\nfor the task. Though there are two candidate metrics, Kakade's Fisher Information\nMatrix (FIM) for the policy (action) distribution and Morimura's FIM for the state-\naction joint distribution, but all RL algorithms with NG have followed Kakade's\napproach. In this paper, we describe a generalized Natural Gradient (gNG) that\nlinearly interpolates the two FIMs and propose an ef\u0002cient implementation for the\n",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Autonomy (power to decide)": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Collective influence": "No",
+    "Respect for Law and public interest": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "User influence": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Not socially biased": "No",
+    "Interpretable (to users)": "No",
+    "Transparent (to users)": "No",
+    "Privacy": "No"
+  }
+}

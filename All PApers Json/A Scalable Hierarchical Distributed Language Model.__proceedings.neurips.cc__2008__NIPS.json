@@ -1,0 +1,22 @@
+{
+  "pdf": "A Scalable Hierarchical Distributed Language Model.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A Scalable Hierarchical Distributed Language Model\nAndriy Mnih\nD\nepartment of Computer Science\nUniversity of Toronto\namnih@cs.toronto.edu\nGeoffrey Hinton\nDepartment of Computer Science\nUniversity of Toronto\nhinton@cs.toronto.edu\nAbstract\nNeural probabilistic language models (NPLMs) have been shown to be competi-\ntive with and occasionally superior to the widely-usedn-gram language models.\nThe main drawback of NPLMs is their extremely long training and testing times.\nMorin and Bengio have proposed a hierarchical language model built around a\nbinary tree of words, which was two orders of magnitude faster than the non-\nhierarchical model it was based on. However, it performed considerably worse\nthan its non-hierarchical counterpart in spite of using a word tree created using\nexpert knowledge. We introduce a fast hierarchical language model along with\na simple feature-based algorithm for automatic construction of word trees from\nthe data. We then show that the resulting models can outperfo",
+  "values": {
+    "Not socially biased": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "Respect for Law and public interest": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Interpretable (to users)": "No",
+    "Fairness": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No",
+    "Transparent (to users)": "No"
+  }
+}

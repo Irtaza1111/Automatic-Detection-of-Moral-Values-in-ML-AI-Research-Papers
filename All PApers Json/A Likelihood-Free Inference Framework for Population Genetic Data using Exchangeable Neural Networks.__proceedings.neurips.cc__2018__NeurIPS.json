@@ -1,0 +1,22 @@
+{
+  "pdf": "A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Likelihood-Free Inference Framework for\nPopulation Genetic Data using Exchangeable Neural\nNetworks\nJeffrey Chan\nUniversity of California, Berkeley\nchanjed@berkeley.edu\nValerio Perrone\nUniversity of Warwick\nv.perrone@warwick.ac.uk\nJeffrey P. Spence\nUniversity of California, Berkeley\nspence.jeffrey@berkeley.edu\nPaul A. Jenkins\nUniversity of Warwick\np.jenkins@warwick.ac.uk\nSara Mathieson\nSwarthmore College\nsmathie1@swarthmore.edu\nYun S. Song\nUniversity of California, Berkeley\nyss@berkeley.edu\nAbstract\nAn explosion of high-throughput DNA sequencing in the past decade has led to\na surge of interest in population-scale inference with whole-genome data. Re-\ncent work in population genetics has centered on designing inference methods\nfor relatively simple model classes, and few scalable general-purpose inference\ntechniques exist for more realistic, complex models. To achieve this, two inferential\nchallenges need to be addressed: (1) population data are exchangeable, calling\nfor methods that ",
+  "values": {
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Transparent (to users)": "No",
+    "Explicability": "No",
+    "Privacy": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "Justice": "No",
+    "Deferral to humans": "No",
+    "Non-maleficence": "No",
+    "Not socially biased": "No",
+    "Autonomy (power to decide)": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "Critiqability": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

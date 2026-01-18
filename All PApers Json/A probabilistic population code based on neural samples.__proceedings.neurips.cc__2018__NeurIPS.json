@@ -1,0 +1,22 @@
+{
+  "pdf": "A probabilistic population code based on neural samples.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A probabilistic population code based on neural\nsamples\nSabyasachi Shivkumar∗, Richard D. Lange∗, Ankani Chattoraj∗, Ralf M. Haefner\nBrain and Cognitive Sciences, University of Rochester\n{sshivkum, rlange, achattor, rhaefne2}@ur.rochester.edu\nAbstract\nSensory processing is often characterized as implementing probabilistic inference:\nnetworks of neurons compute posterior beliefs over unobserved causes given\nthe sensory inputs. How these beliefs are computed and represented by neural\nresponses is much-debated (Fiser et al. 2010, Pouget et al. 2013). A central debate\nconcerns the question of whether neural responses represent samples of latent\nvariables (Hoyer & Hyvarinnen 2003) or parameters of their distributions (Ma et al.\n2006) with efforts being made to distinguish between them (Grabska-Barwinska et\nal. 2013). A separate debate addresses the question of whether neural responses are\nproportionally related to the encoded probabilities (Barlow 1969), or proportional\nto the logarithm of ",
+  "values": {
+    "Non-maleficence": "Yes",
+    "Explicability": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Critiqability": "Yes",
+    "Deferral to humans": "Yes",
+    "Respect for Persons": "Yes",
+    "User influence": "Yes",
+    "Privacy": "Yes",
+    "Beneficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Not socially biased": "Yes"
+  }
+}

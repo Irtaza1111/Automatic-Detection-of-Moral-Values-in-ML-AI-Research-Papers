@@ -1,0 +1,22 @@
+{
+  "pdf": "A Latent Variational Framework for Stochastic Optimization.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Latent Variational Framework for Stochastic\nOptimization\nPhilippe Casgrain\nDepartment of Statistical Sciences\nUniversity of Toronto\nToronto, ON, Canada\np.casgrain@mail.utoronto.ca\nAbstract\nThis paper provides a unifying theoretical framework for stochastic optimization\nalgorithms by means of a latent stochastic variational problem. Using techniques\nfrom stochastic control, the solution to the variational problem is shown to be equiv-\nalent to that of a Forward Backward Stochastic Differential Equation (FBSDE).\nBy solving these equations, we recover a variety of existing adaptive stochastic\ngradient descent methods. This framework establishes a direct connection between\nstochastic optimization algorithms and a secondary latent inference problem on\ngradients, where a prior measure on gradient observations determines the resulting\nalgorithm.\n1 Introduction\nStochastic optimization algorithms are tools which are crucial to solving optimization problems\narising in machine learning. The ini",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Critiqability": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Privacy": "Yes",
+    "User influence": "Yes",
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Beneficence": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

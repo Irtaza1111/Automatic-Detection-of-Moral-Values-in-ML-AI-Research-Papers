@@ -1,0 +1,22 @@
+{
+  "pdf": "A Retrieve-and-Edit Framework for Predicting Structured Outputs.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Retrieve-and-Edit Framework for\nPredicting Structured Outputs\nTatsunori B. Hashimoto\nDepartment of Computer Science\nStanford University\nthashim@stanford.edu\nKelvin Guu\nDepartment of Statistics\nStanford University\nkguu@stanford.edu\nYonatan Oren\nDepartment of Computer Science\nStanford University\nyonatano@stanford.edu\nPercy Liang\nDepartment of Computer Science\nStanford University\npliang@cs.stanford.edu\nAbstract\nFor the task of generating complex outputs such as source code, editing existing\noutputs can be easier than generating complex outputs from scratch. With this\nmotivation, we propose an approach that ﬁrst retrieves a training example based on\nthe input (e.g., natural language description) and then edits it to the desired output\n(e.g., code). Our contribution is a computationally efﬁcient method for learning\na retrieval model that embeds the input in a task-dependent way without relying\non a hand-crafted metric or incurring the expense of jointly training the retriever\nwith the edi",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Privacy": "Yes",
+    "Transparent (to users)": "Yes",
+    "Not socially biased": "Yes",
+    "Critiqability": "Yes",
+    "User influence": "Yes",
+    "Explicability": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Respect for Persons": "Yes",
+    "Collective influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Beneficence": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

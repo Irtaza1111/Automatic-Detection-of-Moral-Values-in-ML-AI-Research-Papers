@@ -1,0 +1,22 @@
+{
+  "pdf": "A Stein variational Newton method.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Stein variational Newton method\nGianluca Detommaso\nUniversity of Bath & The Alan Turing Institute\ngd391@bath.ac.uk\nTiangang Cui\nMonash University\nTiangang.Cui@monash.edu\nAlessio Spantini\nMassachusetts Institute of Technology\nspantini@mit.edu\nYoussef Marzouk\nMassachusetts Institute of Technology\nymarz@mit.edu\nRobert Scheichl\nHeidelberg University\nr.scheichl@uni-heidelberg.de\nAbstract\nStein variational gradient descent (SVGD) was recently proposed as a general\npurpose nonparametric variational inference algorithm [Liu & Wang, NIPS 2016]:\nit minimizes the Kullback–Leibler divergence between the target distribution and\nits approximation by implementing a form of functional gradient descent on a\nreproducing kernel Hilbert space. In this paper, we accelerate and generalize the\nSVGD algorithm by including second-order information, thereby approximating\na Newton-like iteration in function space. We also show how second-order in-\nformation can lead to more effective choices of kernel. We obse",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Non-maleficence": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Beneficence": "Yes",
+    "Privacy": "Yes",
+    "Explicability": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Critiqability": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

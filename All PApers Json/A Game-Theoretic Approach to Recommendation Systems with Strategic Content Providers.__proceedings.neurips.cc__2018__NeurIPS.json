@@ -1,0 +1,22 @@
+{
+  "pdf": "A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Game-Theoretic Approach to Recommendation\nSystems with Strategic Content Providers\nOmer Ben-Porat and Moshe Tennenholtz\nTechnion - Israel Institute of Technology\nHaifa 32000 Israel\n{omerbp@campus,moshe@ie}.technion.ac.il\nAbstract\nWe introduce a game-theoretic approach to the study of recommendation systems\nwith strategic content providers. Such systems should be fair and stable. Showing\nthat traditional approaches fail to satisfy these requirements, we propose the Shap-\nley mediator. We show that the Shapley mediator fulﬁlls the fairness and stability\nrequirements, runs in linear time, and is the only economically efﬁcient mechanism\nsatisfying these properties.\n1 Introduction\nRecommendation systems (RSs hereinafter) have rapidly developed over the past decade. By\npredicting a user preference for an item, RSs have been successfully applied in a variety of applications.\nMoreover, the amazing RSs offered by giant e-tailers and e-marketing platforms, such as Amazon\nand Google, lie at the",
+  "values": {
+    "User influence": "Yes",
+    "Explicability": "Yes",
+    "Privacy": "Yes",
+    "Non-maleficence": "Yes",
+    "Critiqability": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Interpretable (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Respect for Persons": "No",
+    "Respect for Law and public interest": "No",
+    "Deferral to humans": "No",
+    "Transparent (to users)": "No"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A General Theory of Equivariant CNNs on Homogeneous Spaces.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A General Theory of Equivariant CNNs on\nHomogeneous Spaces\nT aco S. Cohen\nQualcomm AI Research ∗\nQualcomm T echnologies Netherlands B.V .\ntacos@qti.qualcomm.com\nMario Geiger\nPCSL Research Group\nEPFL\nmario.geiger@epfl.ch\nMaurice W eiler\nQUV A Lab\nU. of Amsterdam\nm.weiler@uva.nl\nAbstract\nW e present a general theory of Group equivariant Convolutional Neural Networks\n(G-CNNs) on homogeneous spaces such as Euclidean space and the sphere. Feature\nmaps in these networks represent ﬁelds on a homogeneous base space, and layers\nare equivariant maps between spaces of ﬁelds. The theory enables a systematic\nclassiﬁcation of all existing G-CNNs in terms of their symmetry group, base\nspace, and ﬁeld type. W e also consider a fundamental question: what is the most\ngeneral kind of equivariant linear map between feature spaces (ﬁelds) of given\ntypes? Following Mackey , we show that such maps correspond one-to-one with\nconvolutions using equivariant kernels, and characterize the space of such kernels.\n1",
+  "values": {
+    "Respect for Persons": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Not socially biased": "Yes",
+    "Fairness": "Yes",
+    "Critiqability": "Yes",
+    "Beneficence": "Yes",
+    "Explicability": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Non-maleficence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Privacy": "Yes",
+    "Justice": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

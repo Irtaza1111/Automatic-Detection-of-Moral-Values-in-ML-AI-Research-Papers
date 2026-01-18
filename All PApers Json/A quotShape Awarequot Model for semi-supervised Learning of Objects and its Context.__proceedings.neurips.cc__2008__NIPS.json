@@ -1,0 +1,22 @@
+{
+  "pdf": "A quotShape Awarequot Model for semi-supervised Learning of Objects and its Context.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A “Shape Aware” Model for semi-supervised\nLearning of Objects and its Context\nAbhinav Gupta1, Jianbo Shi2 and Larry S. Davis1\n1 Dept. of Computer Science, Univ. of Maryland, College Park\n2 Dept. of Computer and Information Sciences, Univ. of Pennsylvania\nagupta@cs.umd.edu, jshi@cis.upenn.edu, lsd@cs.umd.edu\nAbstract\nWe present an approach that combines bag-of-words and spatial models to perform\nsemantic and syntactic analysis for recognition of an object based on its internal\nappearance and its context. We argue that while object recognition requires mod-\neling relative spatial locations of image features within the object, a bag-of-word\nis sufﬁcient for representing context. Learning such a model from weakly labeled\ndata involves labeling of features into two classes: foreground(object) or “infor-\nmative” background(context). We present a “shape-aware” model which utilizes\ncontour information for efﬁcient and accurate labeling of features in the image.\nOur approach iterates between an",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Respect for Law and public interest": "No",
+    "Collective influence": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Not socially biased": "No",
+    "Deferral to humans": "No",
+    "Justice": "No",
+    "Fairness": "No"
+  }
+}

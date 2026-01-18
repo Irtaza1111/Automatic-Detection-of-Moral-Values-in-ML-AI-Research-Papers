@@ -1,0 +1,22 @@
+{
+  "pdf": "A rational model of preference learning and choice prediction by children.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A rational model of preference learning\nand choice prediction by children\nChristopher G. Lucas\nDepartment of Psychology\nUniversity of California, Berkeley\nBerkeley, CA 94720, USA\nclucas@berkeley.edu\nThomas L. Grifﬁths\nDepartment of Psychology\nUniversity of California, Berkeley\nBerkeley, CA 94720, USA\ntom griffiths@berkeley.edu\nFei Xu\nDepartment of Psychology\nUniversity of British Columbia\nVancouver, B.C., Canada V6T 1Z4\nfei@psych.ubc.ca\nChristine Fawcett\nMax-Planck-Institute for Psycholinguistics\nWundtlaan 1, Postbus 310\n6500AH, Nijmegen, The Netherlands\nchristine.fawcett@mpi.nl\nAbstract\nYoung children demonstrate the ability to make inferences about the preferences\nof other agents based on their choices. However, there exists no overarching ac-\ncount of what children are doing when they learn about preferences or how they\nuse that knowledge. We use a rational model of preference learning, drawing on\nideas from economics and computer science, to explain the behavior of children\nin seve",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Critiqability": "No",
+    "Explicability": "No",
+    "User influence": "No",
+    "Deferral to humans": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "Transparent (to users)": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "Respect for Law and public interest": "No",
+    "Fairness": "No",
+    "Justice": "No"
+  }
+}

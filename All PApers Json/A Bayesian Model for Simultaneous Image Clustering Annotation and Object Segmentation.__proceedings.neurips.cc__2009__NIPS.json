@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayesian Model for Simultaneous Image Clustering Annotation and Object Segmentation.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Bayesian Model for Simultaneous Image\nClustering, Annotation and Object Segmentation\nLan Du, Lu Ren, 1David B. Dunson and Lawrence Carin\nDepartment of Electrical and Computer Engineering\n1Statistics Department\nDuke University\nDurham, NC 27708-0291, USA\n{ld53, lr, lcarin}@ee.duke.edu,dunson@stats.duke.edu\nAbstract\nA non-parametric Bayesian model is proposed for processing multiple images.\nThe analysis employs image features and, when present, the words associated\nwith accompanying annotations. The model clusters the images into classes, and\neach image is segmented into a set of objects, also allowing the opportunity to\nassign a word to each object (localized labeling). Each object is assumed to be\nrepresented as a heterogeneous mix of components, with this realized via mixture\nmodels linking image features to object types. The number of image classes, num-\nber of object types, and the characteristics of the object-feature mixture models\nare inferred nonparametrically. To constitute sp",
+  "values": {
+    "Respect for Persons": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Non-maleficence": "Yes",
+    "Not socially biased": "Yes",
+    "Privacy": "Yes",
+    "Justice": "Yes",
+    "Beneficence": "Yes",
+    "Deferral to humans": "Yes",
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Collective influence": "Yes"
+  }
+}

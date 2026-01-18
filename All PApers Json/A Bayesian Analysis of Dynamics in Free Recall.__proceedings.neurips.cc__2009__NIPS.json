@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayesian Analysis of Dynamics in Free Recall.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Bayesian Analysis of Dynamics in Free Recall\nRichard Socher\nDepartment of Computer Science\nStanford University\nStanford, CA 94305\nrichard@socher.org\nSamuel J. Gershman, Adler J. Perotte, Per B. Sederberg\nDepartment of Psychology\nPrinceton University\nPrinceton, NJ 08540\n{sjgershm,aperotte,persed}@princeton.edu\nDavid M. Blei\nDepartment of Computer Science\nPrinceton University\nPrinceton, NJ 08540\nblei@cs.princeton.edu\nKenneth A. Norman\nDepartment of Psychology\nPrinceton University\nPrinceton, NJ 08540\nknorman@princeton.edu\nAbstract\nWe develop a probabilistic model of human memory performance in free recall\nexperiments. In these experiments, a subject ﬁrst studies a list of words and then\ntries to recall them. To model these data, we draw on both previous psychological\nresearch and statistical topic models of text documents. We assume that memories\nare formed by assimilating the semantic meaning of studied words (represented\nas a distribution over topics) into a slowly changing latent con",
+  "values": {
+    "Critiqability": "No",
+    "Not socially biased": "No",
+    "Respect for Persons": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "Explicability": "No",
+    "User influence": "No",
+    "Justice": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Non-maleficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

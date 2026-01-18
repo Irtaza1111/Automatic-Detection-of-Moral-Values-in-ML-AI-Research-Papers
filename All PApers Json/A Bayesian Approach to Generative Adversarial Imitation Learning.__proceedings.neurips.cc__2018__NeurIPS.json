@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayesian Approach to Generative Adversarial Imitation Learning.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Bayesian Approach to Generative Adversarial\nImitation Learning\nWonseok Jeon1, Seokin Seo1, Kee-Eung Kim1,2\n1 School of Computing, KAIST, Republic of Korea\n2 PROWLER.io\n{wsjeon, siseo}@ai.kaist.ac.kr, kekim@cs.kaist.ac.kr\nAbstract\nGenerative adversarial training for imitation learning has shown promising results\non high-dimensional and continuous control tasks. This paradigm is based on\nreducing the imitation learning problem to the density matching problem, where\nthe agent iteratively reﬁnes the policy to match the empirical state-action visitation\nfrequency of the expert demonstration. Although this approach can robustly learn\nto imitate even with scarce demonstration, one must still address the inherent\nchallenge that collecting trajectory samples in each iteration is a costly operation. To\naddress this issue, we ﬁrst propose a Bayesian formulation of generative adversarial\nimitation learning (GAIL), where the imitation policy and the cost function are\nrepresented as stochastic neu",
+  "values": {
+    "Respect for Persons": "Yes",
+    "Fairness": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Transparent (to users)": "Yes",
+    "Privacy": "Yes",
+    "Not socially biased": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Justice": "Yes",
+    "User influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Beneficence": "Yes",
+    "Collective influence": "Yes",
+    "Deferral to humans": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes"
+  }
+}

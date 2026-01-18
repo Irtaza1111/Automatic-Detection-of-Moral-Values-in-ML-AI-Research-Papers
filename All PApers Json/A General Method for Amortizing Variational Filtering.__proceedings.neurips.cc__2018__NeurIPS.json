@@ -1,0 +1,22 @@
+{
+  "pdf": "A General Method for Amortizing Variational Filtering.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A General Method for\nAmortizing Variational Filtering\nJoseph Marino, Milan Cvitkovic, Yisong Yue\nCalifornia Institute of Technology\n{jmarino, mcvitkovic, yyue}@caltech.edu\nAbstract\nWe introduce the variational ﬁltering EM algorithm, a simple, general-purpose\nmethod for performing variational inference in dynamical latent variable models\nusing information from only past and present variables, i.e. ﬁltering. The algorithm\nis derived from the variational objective in the ﬁltering setting and consists of an op-\ntimization procedure at each time step. By performing each inference optimization\nprocedure with an iterative amortized inference model, we obtain a computationally\nefﬁcient implementation of the algorithm, which we call amortized variational\nﬁltering. We present experiments demonstrating that this general-purpose method\nimproves performance across several deep dynamical latent variable models.\n1 Introduction\nComplex tasks with time-series data, like audio comprehension or robotic m",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Critiqability": "Yes",
+    "Beneficence": "Yes",
+    "User influence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Deferral to humans": "Yes",
+    "Privacy": "Yes",
+    "Justice": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Explicability": "Yes",
+    "Fairness": "Yes",
+    "Collective influence": "Yes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A coupled autoencoder approach for multi-modal analysis of cell types.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A coupled autoencoder approach for multi-modal\nanalysis of cell types\nRohan Gala, Nathan Gouwens, Zizhen Yao, Agata Budzillo, Osnat Penn,\nBosiljka Tasic, Gabe Murphy, Hongkui Zeng, Uygar Sümbül\nAllen Institute, Seattle, W A 98109\nrohang@alleninstitute.org, uygars@alleninstitute.org\nAbstract\nRecent developments in high throughput proﬁling of individual neurons have\nspurred data driven exploration of the idea that there exist natural groupings of\nneurons referred to as cell types. The promise of this idea is that the immense\ncomplexity of brain circuits can be reduced, and effectively studied by means of\ninteractions between cell types. While clustering of neuron populations based on\na particular data modality can be used to deﬁne cell types, such deﬁnitions are\noften inconsistent across different characterization modalities. We pose this issue\nof cross-modal alignment as an optimization problem and develop an approach\nbased on coupled training of autoencoders as a framework for such ana",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Explicability": "Yes",
+    "Transparent (to users)": "Yes",
+    "Critiqability": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Privacy": "Yes",
+    "Not socially biased": "Yes",
+    "Justice": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Fairness": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Respect for Persons": "Yes",
+    "Beneficence": "Yes",
+    "Non-maleficence": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

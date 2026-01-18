@@ -1,0 +1,22 @@
+{
+  "pdf": "A Kernel Loss for Solving the Bellman Equation.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Kernel Loss for Solving the Bellman\nEquation\nYihao Feng\nUT Austin\nyihao@cs.utexas.edu\nLihong Li\nGoogle Research\nlihong@google.com\nQiang Liu\nUT Austin\nlqiang@cs.utexas.edu\nAbstract\nV alue function learning plays a central role in many state-of-the-art reinforcement-\nlearning algorithms. Many popular algorithms like Q-learning do not optimize\nany objective function, but are ﬁxed-point iterations of some variants of Bellman\noperator that are not necessarily a contraction. As a result, they may easily lose\nconvergence guarantees, as can be observed in practice. In this paper, we propose a\nnovel loss function, which can be optimized using standard gradient-based methods\nwith guaranteed convergence. The key advantage is that its gradient can be easily\napproximated using sampled transitions, avoiding the need for double samples\nrequired by prior algorithms like residual gradient. Our approach may be combined\nwith general function classes such as neural networks, using either on- or off-poli",
+  "values": {
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Critiqability": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No",
+    "User influence": "No",
+    "Deferral to humans": "No",
+    "Respect for Persons": "No",
+    "Non-maleficence": "No",
+    "Collective influence": "No",
+    "Not socially biased": "No",
+    "Beneficence": "No",
+    "Privacy": "No",
+    "Fairness": "No",
+    "Justice": "No"
+  }
+}

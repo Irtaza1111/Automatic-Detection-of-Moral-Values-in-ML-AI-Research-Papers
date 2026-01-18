@@ -1,0 +1,22 @@
+{
+  "pdf": "A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Smoothed Analysis of the Greedy Algorithm for the\nLinear Contextual Bandit Problem\nSampath Kannan\nUniversity of Pennsylvania\nJamie Morgenstern\nGeorgia Tech\nAaron Roth\nUniversity of Pennsylvania\nBo Waggoner\nMicrosoft Research, NYC\nZhiwei Steven Wu\nUniversity of Minnesota\nAbstract\nBandit learning is characterized by the tension between long-term exploration and\nshort-term exploitation. However, as has recently been noted, in settings in which\nthe choices of the learning algorithm correspond to important decisions about\nindividual people (such as criminal recidivism prediction, lending, and sequential\ndrug trials), exploration corresponds to explicitly sacriﬁcing the well-being of one\nindividual for the potential future beneﬁt of others. In such settings, one might like\nto run a “greedy” algorithm, which always makes the optimal decision for the indi-\nviduals at hand — but doing this can result in a catastrophic failure to learn. In this\npaper, we consider the linear contextual bandit p",
+  "values": {
+    "Explicability": "Yes",
+    "Not socially biased": "Yes",
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Collective influence": "Yes",
+    "Respect for Persons": "Yes",
+    "Non-maleficence": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Deferral to humans": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Beneficence": "Yes",
+    "Privacy": "No",
+    "Transparent (to users)": "No"
+  }
+}

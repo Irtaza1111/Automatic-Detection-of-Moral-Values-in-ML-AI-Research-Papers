@@ -1,0 +1,22 @@
+{
+  "pdf": "A Condition Number for Joint Optimization of Cycle-Consistent Networks.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Condition Number for Joint Optimization of\nCycle-Consistent Networks\nLeonidas Guibas1, Qixing Huang2, and Zhenxiao Liang2\n1Stanford University\n2The University of Texas at Austin\nAbstract\nA recent trend in optimizing maps such as dense correspondences between objects\nor neural networks between pairs of domains is to optimize them jointly. In this\ncontext, there is a naturalcycle-consistency constraint, which regularizes composite\nmaps associated with cycles, i.e., they are forced to be identity maps. However,\nas there is an exponential number of cycles in a graph, how to sample a subset\nof cycles becomes critical for efﬁcient and effective enforcement of the cycle-\nconsistency constraint. This paper presents an algorithm that select a subset of\nweighted cycles to minimize a condition number of the induced joint optimization\nproblem. Experimental results on benchmark datasets justify the effectiveness of\nour approach for optimizing dense correspondences between 3D shapes and neural\nnet",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "User influence": "Yes",
+    "Non-maleficence": "Yes",
+    "Critiqability": "Yes",
+    "Explicability": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Deferral to humans": "Yes",
+    "Collective influence": "Yes",
+    "Privacy": "Yes",
+    "Respect for Persons": "Yes",
+    "Not socially biased": "Yes",
+    "Justice": "Yes",
+    "Respect for Law and public interest": "Yes"
+  }
+}

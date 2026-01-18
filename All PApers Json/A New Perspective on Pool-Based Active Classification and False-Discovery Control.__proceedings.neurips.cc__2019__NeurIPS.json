@@ -1,0 +1,22 @@
+{
+  "pdf": "A New Perspective on Pool-Based Active Classification and False-Discovery Control.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A New Perspective on Pool-Based Active\nClassiﬁcation and False-Discovery Control\nLalit Jain, Kevin Jamieson\n{lalitj, jamieson}@cs.washington.edu\nPaul G. Allen School of Computer Science & Engineering\nUniversity of Washington, Seattle, W A\nAbstract\nIn many scientiﬁc settings there is a need for adaptive experimental design to guide\nthe process of identifying regions of the search space that contain as many true\npositives as possible subject to a low rate of false discoveries (i.e. false alarms).\nSuch regions of the search space could differ drastically from a predicted set\nthat minimizes 0/1 error and accurate identiﬁcation could require very different\nsampling strategies. Like active learning for binary classiﬁcation, this experimental\ndesign cannot be optimally chosen a priori, but rather the data must be taken\nsequentially and adaptively. However, unlike classiﬁcation with 0/1 error, collecting\ndata adaptively to ﬁnd a set with high true positive rate and low false discovery\nrate (FD",
+  "values": {
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Beneficence": "No",
+    "Privacy": "No",
+    "User influence": "No",
+    "Fairness": "No",
+    "Collective influence": "No",
+    "Justice": "No",
+    "Not socially biased": "No",
+    "Transparent (to users)": "No",
+    "Deferral to humans": "No",
+    "Respect for Law and public interest": "No",
+    "Respect for Persons": "No",
+    "Interpretable (to users)": "No",
+    "Non-maleficence": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

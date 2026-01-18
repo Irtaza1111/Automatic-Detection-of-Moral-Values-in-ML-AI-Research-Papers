@@ -1,0 +1,22 @@
+{
+  "pdf": "A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Graph Theoretic Framework of Recomputation\nAlgorithms for Memory-Efﬁcient Backpropagation\nMitsuru Kusumoto ∗\nPreferred Networks, Inc.\nmkusumoto@preferred.jp\nTakuya Inoue ∗\nThe University of Tokyo\ninoue-takuya57@g.ecc.u-tokyo.ac.jp\nGentaro Watanabe\nPreferred Networks, Inc.\ng.wtnb@preferred.jp\nTakuya Akiba\nPreferred Networks, Inc.\nakiba@preferred.jp\nMasanori Koyama\nPreferred Networks, Inc.\nmasomatics@preferred.jp\nAbstract\nRecomputation algorithmscollectively refer to a family of methods that aims to\nreduce the memory consumption of the backpropagation by selectively discarding\nthe intermediate results of the forward propagation and recomputing the discarded\nresults as needed. In this paper, we will propose a novel and efﬁcient recomputation\nmethod that can be applied to a wider range of neural nets than previous methods.\nWe use the language of graph theory to formalize the general recomputation\nproblem of minimizing the computational overhead under a ﬁxed memory budget\nconstraint, and ",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Beneficence": "No",
+    "User influence": "No",
+    "Deferral to humans": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "Non-maleficence": "No",
+    "Transparent (to users)": "No",
+    "Interpretable (to users)": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Privacy": "No",
+    "Justice": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

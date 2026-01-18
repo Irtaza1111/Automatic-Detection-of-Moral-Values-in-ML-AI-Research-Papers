@@ -1,0 +1,22 @@
+{
+  "pdf": "A Geometric Perspective on Optimal Representations for Reinforcement Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Geometric Perspective on Optimal Representations\nfor Reinforcement Learning\nMarc G. Bellemare1, Will Dabney2, Robert Dadashi1, Adrien Ali Taiga1,3,\nPablo Samuel Castro1, Nicolas Le Roux1, Dale Schuurmans1,4, Tor Lattimore2, Clare Lyle5\nAbstract\nWe propose a new perspective on representation learning in reinforcement learning\nbased on geometric properties of the space of value functions. We leverage this\nperspective to provide formal evidence regarding the usefulness of value functions\nas auxiliary tasks. Our formulation considers adapting the representation to mini-\nmize the (linear) approximation of the value function of all stationary policies for\na given environment. We show that this optimization reduces to making accurate\npredictions regarding a special class of value functions which we call adversarial\nvalue functions (A VFs). We demonstrate that using value functions as auxiliary\ntasks corresponds to an expected-error relaxation of our formulation, with A VFs\na natural candida",
+  "values": {
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "Not socially biased": "No",
+    "Fairness": "No",
+    "Non-maleficence": "No",
+    "Interpretable (to users)": "No",
+    "Critiqability": "No",
+    "User influence": "No",
+    "Justice": "No",
+    "Explicability": "No",
+    "Respect for Law and public interest": "No",
+    "Transparent (to users)": "No",
+    "Beneficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Collective influence": "No",
+    "Deferral to humans": "No"
+  }
+}

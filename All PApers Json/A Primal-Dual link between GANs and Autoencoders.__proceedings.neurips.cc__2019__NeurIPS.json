@@ -1,0 +1,22 @@
+{
+  "pdf": "A Primal-Dual link between GANs and Autoencoders.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Primal-Dual link between GANs and Autoencoders\nHisham Husain‡,† Richard Nock†,‡,♣ Robert C. Williamson‡,†\n‡The Australian National University, †Data61, ♣The University of Sydney\nfirstname.lastname@{data61.csiro.au,anu.edu.au}\nAbstract\nSince the introduction of Generative Adversarial Networks (GANs) and Variational\nAutoencoders (V AE), the literature on generative modelling has witnessed an\noverwhelming resurgence. The impressive, yet elusive empirical performance of\nGANs has lead to the rise of many GAN-V AE hybrids, with the hopes of GAN\nlevel performance and additional beneﬁts of V AE, such as an encoder for feature\nreduction, which is not offered by GANs. Recently, the Wasserstein Autoencoder\n(W AE) was proposed, achieving performance similar to that of GANs, yet it is still\nunclear whether the two are fundamentally different or can be further improved\ninto a uniﬁed model. In this work, we study the f-GAN and WAE models and\nmake two main discoveries. First, we ﬁnd that the f-GAN a",
+  "values": {
+    "Transparent (to users)": "No",
+    "Interpretable (to users)": "No",
+    "Deferral to humans": "No",
+    "Explicability": "No",
+    "Privacy": "No",
+    "Beneficence": "No",
+    "Justice": "No",
+    "Critiqability": "No",
+    "Respect for Persons": "No",
+    "Not socially biased": "No",
+    "Fairness": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

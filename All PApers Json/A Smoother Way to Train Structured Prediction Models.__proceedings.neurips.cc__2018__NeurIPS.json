@@ -1,0 +1,22 @@
+{
+  "pdf": "A Smoother Way to Train Structured Prediction Models.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Smoother Way to Train\nStructured Prediction Models\nKrishna Pillutla, Vincent Roulet, Sham M. Kakade, Zaid Harchaoui\nPaul G. Allen School of Computer Science & Engineering and Department of Statistics\nUniversity of Washington\nname@uw.edu\nAbstract\nWe present a framework to train a structured prediction model by performing\nsmoothing on the inference algorithm it builds upon. Smoothing overcomes the\nnon-smoothness inherent to the maximum margin structured prediction objective,\nand paves the way for the use of fast primal gradient-based optimization algorithms.\nWe illustrate the proposed framework by developing a novel primal incremental\noptimization algorithm for the structural support vector machine. The proposed\nalgorithm blends an extrapolation scheme for acceleration and an adaptive smooth-\ning scheme and builds upon the stochastic variance-reduced gradient algorithm.\nWe establish its worst-case global complexity bound and study several practical\nvariants. We present experimental res",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Explicability": "Yes",
+    "Critiqability": "Yes",
+    "Not socially biased": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "User influence": "Yes",
+    "Respect for Persons": "Yes",
+    "Collective influence": "Yes",
+    "Privacy": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Justice": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pdf": "A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Similarity-preserving Neural Network Trained on\nTransformed Images Recapitulates Salient Features\nof the Fly Motion Detection Circuit\nYanis Bahroun † Anirvan M. Sengupta †‡ Dmitri B. Chklovskii†∗\n†Flatiron Institute ‡Rutgers University ∗NYU Langone Medical Center\n{ybahroun,dchklovskii}@ﬂatironinstitute.org, anirvans@physics.rutgers.edu,\nAbstract\nLearning to detect content-independent transformations from data is one of the\ncentral problems in biological and artiﬁcial intelligence. An example of such prob-\nlem is unsupervised learning of a visual motion detector from pairs of consecutive\nvideo frames. Rao and Ruderman formulated this problem in terms of learning\ninﬁnitesimal transformation operators (Lie group generators) via minimizing image\nreconstruction error. Unfortunately, it is difﬁcult to map their model onto a biologi-\ncally plausible neural network (NN) with local learning rules. Here we propose a\nbiologically plausible model of motion detection. We also adopt the transforma",
+  "values": {
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Deferral to humans": "No",
+    "Interpretable (to users)": "No",
+    "Collective influence": "No",
+    "Non-maleficence": "No",
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "User influence": "No",
+    "Transparent (to users)": "No",
+    "Beneficence": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

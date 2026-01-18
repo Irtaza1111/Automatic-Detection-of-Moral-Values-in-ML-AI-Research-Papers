@@ -1,0 +1,22 @@
+{
+  "pdf": "A Transductive Bound for the Voted Classifier with an Application to Semi-supervised Learning.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A Transductive Bound for the Voted Classiﬁer with an\nApplication to Semi-supervised Learning\nMassih R. Amini\nLaboratoire d’Informatique de Paris 6\nUniversit´e Pierre et Marie Curie, Paris, France\nmassih-reza.amini@lip6.fr\nFranc ¸ois Laviolette\nUniversit´e Laval\nQu´ebec (QC), Canada\nfrancois.laviolette@ift.ulaval.ca\nNicolas Usunier\nLaboratoire d’Informatique de Paris 6\nUniversit´e Pierre et Marie Curie, Paris, France\nnicolas.usunier@lip6.fr\nAbstract\nWe propose two transductive bounds on the risk of majority votes that are estimated over\npartially labeled training sets. The ﬁrst one involves the margin distribution of the clas-\nsiﬁer and a risk bound on its associate Gibbs classiﬁer. The bound is tight when so is\nthe Gibbs’s bound and when the errors of the majority vote classiﬁer is concentrated on a\nzone of low margin. In semi-supervised learning, considering the margin as an indicator\nof conﬁdence constitutes the working hypothesis of algorithms which search the decision\nboundary on l",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "Autonomy (power to decide)": "No",
+    "Explicability": "No",
+    "Not socially biased": "No",
+    "Respect for Persons": "No",
+    "Justice": "No",
+    "Critiqability": "No",
+    "Collective influence": "No",
+    "User influence": "No",
+    "Non-maleficence": "No",
+    "Beneficence": "No",
+    "Fairness": "No"
+  }
+}

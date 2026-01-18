@@ -1,0 +1,22 @@
+{
+  "pdf": "A Theory-Based Evaluation of Nearest Neighbor Models Put Into Practice.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Theory-Based Evaluation of Nearest Neighbor\nModels Put Into Practice\nHendrik Fichtenberger∗\nTU Dortmund\nDortmund, Germany\nhendrik.fichtenberger@tu-dortmund.de\nDennis Rohde†\nTU Dortmund\nDortmund, Germany\ndennis.rohde@cs.tu-dortmund.de\nAbstract\nIn the k-nearest neighborhood model (k-NN), we are given a set of points P, and\nwe shall answer queries qby returning the knearest neighbors of qin P according\nto some metric. This concept is crucial in many areas of data analysis and data\nprocessing, e.g., computer vision, document retrieval and machine learning. Many\nk-NN algorithms have been published and implemented, but often the relation\nbetween parameters and accuracy of the computed k-NN is not explicit. We study\nproperty testing of k-NN graphs in theory and evaluate it empirically: given a point\nset P ⊂Rδ and a directed graph G= (P,E), is Ga k-NN graph, i.e., every point\np ∈P has outgoing edges to its k nearest neighbors, or is it ϵ-far from being a\nk-NN graph? Here, ϵ-far means that on",
+  "values": {
+    "Privacy": "No",
+    "Transparent (to users)": "No",
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Interpretable (to users)": "No",
+    "Critiqability": "No",
+    "Justice": "No",
+    "Not socially biased": "No",
+    "Non-maleficence": "No",
+    "Collective influence": "No",
+    "Explicability": "No",
+    "User influence": "No",
+    "Respect for Persons": "No",
+    "Deferral to humans": "No",
+    "Fairness": "No",
+    "Beneficence": "No"
+  }
+}

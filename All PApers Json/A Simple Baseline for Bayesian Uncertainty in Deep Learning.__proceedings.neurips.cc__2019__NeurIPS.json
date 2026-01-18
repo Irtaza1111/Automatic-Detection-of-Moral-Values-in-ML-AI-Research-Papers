@@ -1,0 +1,22 @@
+{
+  "pdf": "A Simple Baseline for Bayesian Uncertainty in Deep Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Simple Baseline for Bayesian Uncertainty\nin Deep Learning\nWesley J. Maddox∗1 Timur Garipov∗2 Pavel Izmailov∗1\nDmitry Vetrov2,3 Andrew Gordon Wilson1\n1 New York University\n2 Samsung AI Center Moscow\n3 Samsung-HSE Laboratory, National Research University Higher School of Economics\nAbstract\nWe propose SWA-Gaussian (SWAG), a simple, scalable, and general purpose\napproach for uncertainty representation and calibration in deep learning. Stochastic\nWeight Averaging (SW A), which computes the ﬁrst moment of stochastic gradient\ndescent (SGD) iterates with a modiﬁed learning rate schedule, has recently been\nshown to improve generalization in deep learning. With SW AG, we ﬁt a Gaussian\nusing the SW A solution as the ﬁrst moment and a low rank plus diagonal covariance\nalso derived from the SGD iterates, forming an approximate posterior distribution\nover neural network weights; we then sample from this Gaussian distribution to\nperform Bayesian model averaging. We empirically ﬁnd that SW AG approx",
+  "values": {
+    "Transparent (to users)": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Respect for Persons": "Yes",
+    "Critiqability": "Yes",
+    "Privacy": "Yes",
+    "Justice": "Yes",
+    "Explicability": "Yes",
+    "Non-maleficence": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Fairness": "Yes",
+    "User influence": "Yes",
+    "Not socially biased": "Yes",
+    "Beneficence": "Yes",
+    "Collective influence": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

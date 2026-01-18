@@ -1,0 +1,22 @@
+{
+  "pdf": "A Smoothed Approximate Linear Program.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Smoothed Approximate Linear Program\nVijay V. Desai\nIEOR, Columbia University\nvvd2101@columbia.edu\nVivek F. Farias\nMIT Sloan\nvivekf@mit.edu\nCiamac C. Moallemi\nGSB, Columbia University\nciamac@gsb.columbia.edu\nAbstract\nWe present a novel linear program for the approximation of the dynamic\nprogramming cost-to-go function in high-dimensional stochastic control\nproblems. LP approaches to approximate DP naturally restrict attention\nto approximations that are lower bounds to the optimal cost-to-go func-\ntion. Our program – the ‘smoothed approximate linear program’ – relaxes\nthis restriction in an appropriate fashion while remaining computation-\nally tractable. Doing so appears to have several advantages: First, we\ndemonstrate superior bounds on the quality of approximation to the op-\ntimal cost-to-go function aﬀorded by our approach. Second, experiments\nwith our approach on a challenging problem (the game of Tetris) show that\nthe approach outperforms the existing LP approach (which has previ",
+  "values": {
+    "Non-maleficence": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Critiqability": "No",
+    "Transparent (to users)": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No",
+    "Deferral to humans": "No",
+    "Not socially biased": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Respect for Law and public interest": "No",
+    "User influence": "No",
+    "Beneficence": "No",
+    "Collective influence": "No"
+  }
+}

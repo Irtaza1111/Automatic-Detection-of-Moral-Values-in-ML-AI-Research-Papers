@@ -1,0 +1,22 @@
+{
+  "pdf": "A Neural Implementation of the Kalman Filter.__proceedings.neurips.cc__2009__NIPS",
+  "text": "A Neural Implementation of the Kalman Filter\nRobert C. Wilson\nDepartment of Psychology\nPrinceton University\nPrinceton, NJ 08540\nrcw2@princeton.edu\nLeif H. Finkel\nDepartment of Bioengineering\nUniversity of Pennsylvania\nPhiladelphia, PA 19103\nAbstract\nRecent experimental evidence suggests that the brain is capable of approximating\nBayesian inference in the face of noisy input stimuli. Despite this progress, the\nneural underpinnings of this computation are still poorly understood. In this pa-\nper we focus on the Bayesian ﬁltering of stochastic time series and introduce a\nnovel neural network, derived from a line attractor architecture, whose dynamics\nmap directly onto those of the Kalman ﬁlter in the limit of small prediction error.\nWhen the prediction error is large we show that the network responds robustly to\nchangepoints in a way that is qualitatively compatible with the optimal Bayesian\nmodel. The model suggests ways in which probability distributions are encoded\nin the brain and mak",
+  "values": {
+    "Critiqability": "No",
+    "Interpretable (to users)": "No",
+    "Not socially biased": "No",
+    "Transparent (to users)": "No",
+    "Explicability": "No",
+    "User influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Privacy": "No",
+    "Respect for Persons": "No",
+    "Collective influence": "No",
+    "Justice": "No",
+    "Beneficence": "No",
+    "Respect for Law and public interest": "No",
+    "Non-maleficence": "No",
+    "Fairness": "No",
+    "Deferral to humans": "No"
+  }
+}

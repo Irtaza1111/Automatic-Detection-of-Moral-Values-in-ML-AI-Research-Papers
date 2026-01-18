@@ -1,0 +1,22 @@
+{
+  "pdf": "A Massively Parallel Digital Learning Processor.__proceedings.neurips.cc__2008__NIPS",
+  "text": "A Massively Parallel Digital  \nLearning Processor  \n \n Hans Peter Graf                  Srihari Cadambi   Igor Durdanovic  \n          hpg@nec -labs.com              cadambi@nec -labs.com               igord@nec -labs.com  \n \nVenkata Jakkula          Murugan Sankardadass        Eric Cosatto       Srimat Chakradhar \nJakkula@nec- labs.com   murugs@nec -labs.com    cosatto@nec -labs.com chak@nec -labs.com  \n \nNEC Laboratories, America  \n4 Independence Way,  Suite 200;  Princeton, NJ 07738, USA \nAbstract  \nWe present a new, massively parallel architecture for accelerating machine \nlearning algorithms, based on arrays of vector processing elements (VPE s) \nwith variable -resolution arithmetic . Groups of VPEs operate in SIMD \n(single instruction multiple data) mode, and each group is connected to an \nindependent memory bank . The memory bandwidth thus scales with the \nnumber of VPEs, while the main data flows are local, keeping power dissipation \nlow. With 256 VPEs, implemented on two FPGA s",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "User influence": "No",
+    "Collective influence": "No",
+    "Beneficence": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Privacy": "No",
+    "Justice": "No",
+    "Transparent (to users)": "No",
+    "Interpretable (to users)": "No",
+    "Deferral to humans": "No",
+    "Non-maleficence": "No",
+    "Autonomy (power to decide)": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

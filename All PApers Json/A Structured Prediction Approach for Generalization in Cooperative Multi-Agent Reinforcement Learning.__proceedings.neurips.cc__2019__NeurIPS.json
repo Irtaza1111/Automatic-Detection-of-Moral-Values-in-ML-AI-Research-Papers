@@ -1,0 +1,22 @@
+{
+  "pdf": "A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Structured Prediction Approach for Generalization\nin Cooperative Multi-Agent Reinforcement Learning\nNicolas Carion\nFacebook, Paris\nLamsade, Univ. Paris Dauphine\nalcinos@fb.com\nGabriel Synnaeve\nFacebook, NYC\ngab@fb.com\nAlessandro Lazaric\nFacebook, Paris\nlazaric@fb.com\nNicolas Usunier\nFacebook, Paris\nusunier@fb.com\nAbstract\nEffective coordination is crucial to solve multi-agent collaborative (MAC) prob-\nlems. While centralized reinforcement learning methods can optimally solve small\nMAC instances, they do not scale to large problems and they fail to generalize\nto scenarios different from those seen during training. In this paper, we consider\nMAC problems with some intrinsic notion of locality (e.g., geographic proximity)\nsuch that interactions between agents and tasks are locally limited. By leverag-\ning this property, we introduce a novel structured prediction approach to assign\nagents to tasks. At each step, the assignment is obtained by solving a centralized\noptimization problem (th",
+  "values": {
+    "Not socially biased": "Yes",
+    "Interpretable (to users)": "Yes",
+    "Transparent (to users)": "Yes",
+    "Collective influence": "Yes",
+    "Explicability": "Yes",
+    "Respect for Persons": "Yes",
+    "Critiqability": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "User influence": "Yes",
+    "Justice": "Yes",
+    "Beneficence": "Yes",
+    "Privacy": "Yes",
+    "Non-maleficence": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

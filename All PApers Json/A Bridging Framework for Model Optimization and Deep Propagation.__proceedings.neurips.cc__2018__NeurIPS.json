@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bridging Framework for Model Optimization and Deep Propagation.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Bridging Framework for\nModel Optimization and Deep Propagation\nRisheng Liu1,2∗, Shichao Cheng3, Xiaokun Liu1, Long Ma1, Xin Fan1,2, Zhongxuan Luo2,3\n1International School of Information Science & Engineering, Dalian University of Technology\n2Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province\n3School of Mathematical Science, Dalian University of Technology\nAbstract\nOptimizing task-related mathematical model is one of the most fundamental\nmethodologies in statistic and learning areas. However, generally designed schemat-\nic iterations may hard to investigate complex data distributions in real-world appli-\ncations. Recently, training deep propagations (i.e., networks) has gained promising\nperformance in some particular tasks. Unfortunately, existing networks are often\nbuilt in heuristic manners, thus lack of principled interpretations and solid theoreti-\ncal supports. In this work, we provide a new paradigm, named Propagation and\nOptimization based Deep Mode",
+  "values": {
+    "Explicability": "Yes",
+    "Interpretable (to users)": "Yes",
+    "User influence": "Yes",
+    "Collective influence": "Yes",
+    "Critiqability": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Not socially biased": "Yes",
+    "Respect for Persons": "Yes",
+    "Non-maleficence": "Yes",
+    "Beneficence": "Yes",
+    "Transparent (to users)": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Justice": "Yes",
+    "Fairness": "Yes",
+    "Privacy": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

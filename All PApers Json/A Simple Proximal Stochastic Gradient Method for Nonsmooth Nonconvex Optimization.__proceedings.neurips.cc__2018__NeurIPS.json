@@ -1,0 +1,22 @@
+{
+  "pdf": "A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Simple Proximal Stochastic Gradient Method for\nNonsmooth Nonconvex Optimization\nZhize Li\nIIIS, Tsinghua University\nzz-li14@mails.tsinghua.edu.cn\nJian Li\nIIIS, Tsinghua University\nlijian83@mail.tsinghua.edu.cn\nAbstract\nWe analyze stochastic gradient algorithms for optimizing nonconvex, nonsmooth\nﬁnite-sum problems. In particular, the objective function is given by the summation\nof a differentiable (possibly nonconvex) component, together with a possibly non-\ndifferentiable but convex component. We propose a proximal stochastic gradient\nalgorithm based on variance reduction, called ProxSVRG+. Our main contribution\nlies in the analysis of ProxSVRG+. It recovers several existing convergence results\nand improves/generalizes them (in terms of the number of stochastic gradient\noracle calls and proximal oracle calls). In particular, ProxSVRG+ generalizes\nthe best results given by the SCSG algorithm, recently proposed by [Lei et al.,\n2017] for the smooth nonconvex case. ProxSVRG+ is also more",
+  "values": {
+    "Privacy": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "User influence": "No",
+    "Critiqability": "No",
+    "Transparent (to users)": "No",
+    "Collective influence": "No",
+    "Autonomy (power to decide)": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Not socially biased": "No",
+    "Justice": "No",
+    "Respect for Persons": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Respect for Law and public interest": "No"
+  }
+}

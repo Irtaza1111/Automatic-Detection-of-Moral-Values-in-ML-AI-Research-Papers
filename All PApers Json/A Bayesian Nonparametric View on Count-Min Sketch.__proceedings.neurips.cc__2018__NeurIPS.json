@@ -1,0 +1,22 @@
+{
+  "pdf": "A Bayesian Nonparametric View on Count-Min Sketch.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Bayesian Nonparametric View\non Count-Min Sketch\nDiana Cai\nPrinceton University\ndcai@cs.princeton.edu\nMichael Mitzenmacher\nHarvard University\nmichaelm@eecs.harvard.edu\nRyan P. Adams\nPrinceton University\nrpa@princeton.edu\nAbstract\nThe count-min sketch is a time- and memory-efﬁcient randomized data structure\nthat provides a point estimate of the number of times an item has appeared in a data\nstream. The count-min sketch and related hash-based data structures are ubiquitous\nin systems that must track frequencies of data such as URLs, IP addresses, and\nlanguage n-grams. We present a Bayesian view on the count-min sketch, using\nthe same data structure, but providing a posterior distribution over the frequencies\nthat characterizes the uncertainty arising from the hash-based approximation. In\nparticular, we take a nonparametric approach and consider tokens generated from a\nDirichlet process (DP) random measure, which allows for an unbounded number\nof unique tokens. Using properties of the DP",
+  "values": {
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Not socially biased": "No",
+    "Privacy": "No",
+    "Non-maleficence": "No",
+    "User influence": "No",
+    "Respect for Persons": "No",
+    "Autonomy (power to decide)": "No",
+    "Justice": "No",
+    "Transparent (to users)": "No",
+    "Collective influence": "No",
+    "Fairness": "No",
+    "Beneficence": "No",
+    "Respect for Law and public interest": "No",
+    "Deferral to humans": "No"
+  }
+}

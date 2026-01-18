@@ -1,0 +1,22 @@
+{
+  "pdf": "3D-Aware Scene Manipulation via Inverse Graphics.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "3D-Aware Scene Manipulation via Inverse Graphics\nShunyu Yao∗\nIIIS, Tsinghua University\nTzu-Ming Harry Hsu∗\nMIT CSAIL\nJun-Yan Zhu\nMIT CSAIL\nJiajun Wu\nMIT CSAIL\nAntonio Torralba\nMIT CSAIL\nWilliam T. Freeman\nMIT CSAIL, Google Research\nJoshua B. Tenenbaum\nMIT CSAIL\nAbstract\nWe aim to obtain an interpretable, expressive, and disentangled scene representation\nthat contains comprehensive structural and textural information for each object.\nPrevious scene representations learned by neural networks are often uninterpretable,\nlimited to a single object, or lacking 3D knowledge. In this work, we propose 3D\nscene de-rendering networks (3D-SDN) to address the above issues by integrating\ndisentangled representations for semantics, geometry, and appearance into a deep\ngenerative model. Our scene encoder performs inverse graphics, translating a scene\ninto a structured object-wise representation. Our decoder has two components: a\ndifferentiable shape renderer and a neural texture generator. The disenta",
+  "values": {
+    "Interpretable (to users)": "No",
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Privacy": "No",
+    "Collective influence": "No",
+    "User influence": "No",
+    "Respect for Persons": "No",
+    "Not socially biased": "No",
+    "Fairness": "No",
+    "Justice": "No",
+    "Beneficence": "No",
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Respect for Law and public interest": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

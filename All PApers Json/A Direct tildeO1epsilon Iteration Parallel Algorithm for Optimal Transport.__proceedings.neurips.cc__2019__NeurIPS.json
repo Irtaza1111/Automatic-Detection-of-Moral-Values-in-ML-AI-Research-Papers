@@ -1,0 +1,22 @@
+{
+  "pdf": "A Direct tildeO1epsilon Iteration Parallel Algorithm for Optimal Transport.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A Direct ˜O(1/ϵ) Iteration Parallel Algorithm for\nOptimal Transport\nArun Jambulapati, Aaron Sidford, and Kevin Tian\nStanford University\n{jmblpati,sidford,kjtian}@stanford.edu\nAbstract\nOptimal transportation, or computing the Wasserstein or “earth mover’s” distance\nbetween two n-dimensional distributions, is a fundamental primitive which arises\nin many learning and statistical settings. We give an algorithm which solves the\nproblem to additive ϵ accuracy with ˜O(1/ϵ) parallel depth and ˜O\n(\nn2/ϵ\n)\nwork.\n[BJKS18, Qua19] obtained this runtime through reductions to positive linear pro-\ngramming and matrix scaling. However, these reduction-based algorithms use\nsubroutines which may be impractical due to requiring solvers for second-order\niterations (matrix scaling) or non-parallelizability (positive LP). Our methods\nmatch the previous-best work bounds by [BJKS18, Qua19] while either improv-\ning parallelization or removing the need for linear system solves, and improve\nupon the previous best",
+  "values": {
+    "Non-maleficence": "No",
+    "Deferral to humans": "No",
+    "Explicability": "No",
+    "Justice": "No",
+    "Respect for Persons": "No",
+    "Privacy": "No",
+    "Critiqability": "No",
+    "Respect for Law and public interest": "No",
+    "Fairness": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "Beneficence": "No",
+    "User influence": "No",
+    "Transparent (to users)": "No",
+    "Autonomy (power to decide)": "No",
+    "Interpretable (to users)": "No"
+  }
+}

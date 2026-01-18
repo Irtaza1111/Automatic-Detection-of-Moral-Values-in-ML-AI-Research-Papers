@@ -1,0 +1,22 @@
+{
+  "pdf": "A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices.__proceedings.neurips.cc__2018__NeurIPS",
+  "text": "A Statistical Recurrent Model on the Manifold of\nSymmetric Positive Deﬁnite Matrices∗\nRudrasis Chakraborty† Chun-Hao Yang†♯ Xingjian Zhen‡♯ Monami Banerjee†\nDerek Archer† David Vaillancourt† Vikas Singh‡ Baba C. Vemuri†\n†University of Florida, Gainesville, USA\n‡University of Wisconsin Madison, USA\n♯Equal contribution\nAbstract\nIn a number of disciplines, the data (e.g., graphs, manifolds) to be analyzed are\nnon-Euclidean in nature. Geometric deep learning corresponds to techniques that\ngeneralize deep neural network models to such non-Euclidean spaces. Several\nrecent papers have shown how convolutional neural networks (CNNs) can be\nextended to learn with graph-based data. In this work, we study the setting where\nthe data (or measurements) are ordered, longitudinal or temporal in nature and live\non a Riemannian manifold – this setting is common in a variety of problems in\nstatistical machine learning, vision and medical imaging. We show how recurrent\nstatistical network models can be deﬁ",
+  "values": {
+    "Interpretable (to users)": "Yes",
+    "Explicability": "Yes",
+    "Privacy": "Yes",
+    "User influence": "Yes",
+    "Critiqability": "Yes",
+    "Not socially biased": "Yes",
+    "Transparent (to users)": "Yes",
+    "Non-maleficence": "Yes",
+    "Collective influence": "Yes",
+    "Justice": "Yes",
+    "Beneficence": "Yes",
+    "Fairness": "Yes",
+    "Autonomy (power to decide)": "Yes",
+    "Respect for Persons": "Yes",
+    "Respect for Law and public interest": "Yes",
+    "Deferral to humans": "Yes"
+  }
+}

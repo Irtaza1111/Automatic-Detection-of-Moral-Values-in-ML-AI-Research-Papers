@@ -1,0 +1,22 @@
+{
+  "pdf": "A General Framework for Symmetric Property Estimation.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "A General Framework for Symmetric Property\nEstimation\nMoses Charikar\nStanford University\nmoses@cs.stanford.edu\nKirankumar Shiragur\nStanford University\nshiragur@stanford.edu\nAaron Sidford\nStanford University\nsidford@stanford.edu\nAbstract\nIn this paper we provide a general framework for estimating symmetric properties\nof distributions from i.i.d. samples. For a broad class of symmetric properties we\nidentify theeasy region where empirical estimation works and thedifﬁcult region\nwhere more complex estimators are required. We show that by approximately\ncomputing the proﬁle maximum likelihood (PML) distribution [ADOS16] in this\ndifﬁcult region we obtain a symmetric property estimation framework that is\nsample complexity optimal for many properties in a broader parameter regime than\nprevious universal estimation approaches based on PML. The resulting algorithms\nbased on thesepseudo PML distributionsare also more practical.\n1 Introduction\nSymmetric property estimation is a fundamental and wel",
+  "values": {
+    "Respect for Law and public interest": "No",
+    "Autonomy (power to decide)": "No",
+    "Non-maleficence": "No",
+    "Critiqability": "No",
+    "Explicability": "No",
+    "Interpretable (to users)": "No",
+    "Privacy": "No",
+    "Beneficence": "No",
+    "Fairness": "No",
+    "Respect for Persons": "No",
+    "Transparent (to users)": "No",
+    "Not socially biased": "No",
+    "Collective influence": "No",
+    "Deferral to humans": "No",
+    "User influence": "No",
+    "Justice": "No"
+  }
+}

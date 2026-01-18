@@ -1,0 +1,22 @@
+{
+  "pdf": "A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation.__proceedings.neurips.cc__2019__NeurIPS",
+  "text": "Model-Based Reinforcement Learning with\nAdversarial Training for Online Recommendation\nXueying Bai∗‡, Jian Guan∗§, Hongning Wang†\n‡Department of Computer Science, Stony Brook University\n§Department of Computer Science and Technology, Tsinghua University\n†Department of Computer Science, University of Virginia\nxubai@cs.stonybrook.edu, j-guan19@mails.tsinghua.edu.cn\nhw5x@virginia.edu\nAbstract\nReinforcement learning is well suited for optimizing policies of recommender\nsystems. Current solutions mostly focus on model-free approaches, which require\nfrequent interactions with the real environment, and thus are expensive in model\nlearning. Ofﬂine evaluation methods, such as importance sampling, can alleviate\nsuch limitations, but usually request a large amount of logged data and do not\nwork well when the action space is large. In this work, we propose a model-based\nreinforcement learning solution which models user-agent interaction for ofﬂine\npolicy learning via a generative adversarial netwo",
+  "values": {
+    "Not socially biased": "No",
+    "User influence": "No",
+    "Explicability": "No",
+    "Critiqability": "No",
+    "Collective influence": "No",
+    "Interpretable (to users)": "No",
+    "Non-maleficence": "No",
+    "Respect for Persons": "No",
+    "Beneficence": "No",
+    "Deferral to humans": "No",
+    "Privacy": "No",
+    "Fairness": "No",
+    "Respect for Law and public interest": "No",
+    "Transparent (to users)": "No",
+    "Justice": "No",
+    "Autonomy (power to decide)": "No"
+  }
+}

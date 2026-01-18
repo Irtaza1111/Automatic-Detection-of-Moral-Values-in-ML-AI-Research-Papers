@@ -22,3 +22,8 @@ This project presents an automated pipeline to detect moral and ethical values i
 <p align="center">
   <img src="Results/Confusion_matrix.png" width="500"/>
 </p>
+### Distribution of Detected Moral Values
+
+<p align="center">
+  <img src="Results/Confusion_matrix.png" width="500"/>
+</p>

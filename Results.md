@@ -25,5 +25,10 @@ This project presents an automated pipeline to detect moral and ethical values i
 ### Distribution of Detected Moral Values
 
 <p align="center">
-  <img src="Results/True_Predicted.png" width="500"/>
+  <img src="Results/True_predicted.png" width="500"/>
+</p>
+<p align="center">
+  <img src="Results/Prediction.png" width="500"/>
+</p><p align="center">
+  <img src="Results/Model_performence.png" width="500"/>
 </p>

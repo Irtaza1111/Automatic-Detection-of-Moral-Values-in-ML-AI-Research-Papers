@@ -20,5 +20,5 @@ This project presents an automated pipeline to detect moral and ethical values i
 ### Moral vs Non-Moral Classification
 
 <p align="center">
-  <img src="images/Confusion matrix.png" width="500"/>
+  <img src="images/Confusion_matrix.png" width="500"/>
 </p>

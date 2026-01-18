@@ -114,7 +114,7 @@ The model is evaluated using:
 
 ## References
 - Birhane, A. et al. (2022). *The Values Encoded in Machine Learning Research*
-- Nauta, P. et al. (2023). *Large Language Models Meet Moral Values*
+- Nauta, P. et al. (2025). *Large Language Models Meet Moral Values*
 
 ---
 

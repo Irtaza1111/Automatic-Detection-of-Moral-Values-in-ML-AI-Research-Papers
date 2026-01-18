@@ -30,5 +30,5 @@ This project presents an automated pipeline to detect moral and ethical values i
 <p align="center">
   <img src="Results/Prediction.png" width="500"/>
 </p><p align="center">
-  <img src="Results/Model_performence.png" width="500"/>
+  <img src="Results/confusion.png" width="500"/>
 </p>

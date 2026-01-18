@@ -1,0 +1,24 @@
+# Automatic Detection of Moral Values in Research Papers
+
+## Overview
+This project presents an automated system for detecting moral and ethical values in AI and Machine Learning research papers using transformer-based NLP models.
+
+---
+
+## Dataset
+- **Seed papers:** 99 manually annotated publications
+- **All papers:** 250+ DBLP conference papers
+- PDFs are automatically processed and converted into JSON files.
+
+---
+
+## Methodology
+1. PDF text extraction
+2. Zero-shot moral value detection
+3. Supervised multi-label classification (RoBERTa)
+4. IR-style theme mapping
+5. Evaluation and analysis
+
+---
+
+## Results

@@ -17,3 +17,8 @@ This project presents an automated pipeline to detect moral and ethical values i
 - Hugging Face Transformers
 - RoBERTa
 - Scikit-learn
+### Moral vs Non-Moral Classification
+
+<p align="center">
+  <img src="images/Confusion matrix.png" width="500"/>
+</p>
